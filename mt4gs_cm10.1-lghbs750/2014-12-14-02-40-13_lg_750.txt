@@ -1,0 +1,1264 @@
+12-14 02:38:37.889 V/AudioHardwareMSM8660(141): open driver
+12-14 02:38:37.909 V/AudioHardwareMSM8660(141): get config
+12-14 02:38:37.909 V/AudioHardwareMSM8660(141): set config
+12-14 02:38:37.909 V/AudioHardwareMSM8660(141): buffer_size: 4800
+12-14 02:38:37.909 V/AudioHardwareMSM8660(141): buffer_count: 2
+12-14 02:38:37.909 V/AudioHardwareMSM8660(141): channel_count: 2
+12-14 02:38:37.909 V/AudioHardwareMSM8660(141): sample_rate: 44100
+12-14 02:38:37.909 E/AudioHardwareMSM8660(141): write(): dec_id = 1 cur_rx = 2
+12-14 02:38:37.909 D/AudioHardwareMSM8660(141): do_aic3254_control device: 1 mode: 0 record: 0
+12-14 02:38:37.909 D/AudioHardwareMSM8660(141): do_aic3254_control: set aic3254 rx to 13
+12-14 02:38:37.919 E/AudioHardwareMSM8660(141): cur_rx for pcm playback = 2
+12-14 02:38:37.919 E/AudioHardwareMSM8660(141): value of device and enable is 2 1 ALSA dev id:2
+12-14 02:38:37.999 D/ACDB-LOADER(141): ACDB -> send_audio_cal, acdb_id = 15, path =  0
+12-14 02:38:37.999 D/ACDB-LOADER(141): ACDB -> send_audtable
+12-14 02:38:37.999 D/ACDB-LOADER(141): ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE
+12-14 02:38:37.999 D/ACDB-LOADER(141): ACDB -> AUDIO_SET_AUDPROC_CAL
+12-14 02:38:37.999 D/ACDB-LOADER(141): ACDB -> send_audvoltable
+12-14 02:38:37.999 D/ACDB-LOADER(141): ACDB -> ACDB_CMD_GET_AUDPROC_GAIN_DEP_VOLTBL_STEP_COPP
+12-14 02:38:37.999 D/ACDB-LOADER(141): ACDB -> AUDIO_SET_AUDPROC_VOL_CAL
+12-14 02:38:38.009 D/AudioHardwareMSM8660(141): addToTable stream 1
+12-14 02:38:38.049 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:38.049 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:38.069 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:38.079 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:41.032 D/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::standby()
+12-14 02:38:41.032 D/AudioHardwareMSM8660(141): Deroute pcm stream
+12-14 02:38:41.032 D/AudioHardwareMSM8660(141): deleteFromTable stream 1
+12-14 02:38:41.032 D/AudioHardwareMSM8660(141): updateDeviceInfo: E
+12-14 02:38:41.032 D/AudioHardwareMSM8660(141): simple device switch
+12-14 02:38:41.032 E/AudioHardwareMSM8660(141): value of device and enable is 2 0 ALSA dev id:2
+12-14 02:38:41.092 E/AudioHardwareMSM8660(141): value of device and enable is 3 0 ALSA dev id:4
+12-14 02:38:41.092 D/AudioHardwareMSM8660(141): do_aic3254_control device: 1 mode: 0 record: 0
+12-14 02:38:41.092 D/AudioHardwareMSM8660(141): do_aic3254_control: set aic3254 rx to 29
+12-14 02:38:41.132 I/AudioHardwareMSM8660(141): aic3254 powered off
+12-14 02:38:44.526 I/binder_sample(4827): [android.view.IWindowSession,5,25,com.android.settings,5]
+12-14 02:38:45.707 V/AudioHardwareMSM8660(141): open driver
+12-14 02:38:45.717 V/AudioHardwareMSM8660(141): get config
+12-14 02:38:45.717 V/AudioHardwareMSM8660(141): set config
+12-14 02:38:45.717 V/AudioHardwareMSM8660(141): buffer_size: 4800
+12-14 02:38:45.717 V/AudioHardwareMSM8660(141): buffer_count: 2
+12-14 02:38:45.717 V/AudioHardwareMSM8660(141): channel_count: 2
+12-14 02:38:45.717 V/AudioHardwareMSM8660(141): sample_rate: 44100
+12-14 02:38:45.727 E/AudioHardwareMSM8660(141): write(): dec_id = 1 cur_rx = 2
+12-14 02:38:45.727 D/AudioHardwareMSM8660(141): do_aic3254_control device: 1 mode: 0 record: 0
+12-14 02:38:45.727 D/AudioHardwareMSM8660(141): do_aic3254_control: set aic3254 rx to 13
+12-14 02:38:45.737 E/AudioHardwareMSM8660(141): cur_rx for pcm playback = 2
+12-14 02:38:45.737 E/AudioHardwareMSM8660(141): value of device and enable is 2 1 ALSA dev id:2
+12-14 02:38:45.817 D/ACDB-LOADER(141): ACDB -> send_audio_cal, acdb_id = 15, path =  0
+12-14 02:38:45.817 D/ACDB-LOADER(141): ACDB -> send_audtable
+12-14 02:38:45.817 D/ACDB-LOADER(141): ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE
+12-14 02:38:45.817 D/ACDB-LOADER(141): ACDB -> AUDIO_SET_AUDPROC_CAL
+12-14 02:38:45.817 D/ACDB-LOADER(141): ACDB -> send_audvoltable
+12-14 02:38:45.817 D/ACDB-LOADER(141): ACDB -> ACDB_CMD_GET_AUDPROC_GAIN_DEP_VOLTBL_STEP_COPP
+12-14 02:38:45.817 D/ACDB-LOADER(141): ACDB -> AUDIO_SET_AUDPROC_VOL_CAL
+12-14 02:38:45.827 D/AudioHardwareMSM8660(141): addToTable stream 1
+12-14 02:38:45.867 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:45.867 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:45.887 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:45.897 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:46.027 I/ActivityManager(447): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10040000 pkg=com.cyanogenmod.trebuchet cmp=com.cyanogenmod.trebuchet/.Launcher} from pid 650
+12-14 02:38:46.047 I/am_pause_activity(447): [0,1089231440,com.nolanlawson.logcat/.LogcatActivity]
+12-14 02:38:46.047 I/am_task_to_front(447): [0,3]
+12-14 02:38:46.047 I/am_new_intent(447): [0,1100180720,3,com.cyanogenmod.trebuchet/.Launcher,android.intent.action.MAIN,NULL,NULL,272891904]
+12-14 02:38:46.127 I/am_on_paused_called(6105): [0,com.nolanlawson.logcat.LogcatActivity]
+12-14 02:38:46.137 I/am_resume_activity(447): [0,1095404920,3,com.cyanogenmod.trebuchet/.Launcher]
+12-14 02:38:46.197 I/am_on_resume_called(827): [0,com.cyanogenmod.trebuchet.Launcher]
+12-14 02:38:48.750 D/BluetoothAdapter(548): 1088980320: getState() :  mService = null. Returning STATE_OFF
+12-14 02:38:48.750 D/BluetoothAdapter(548): 1088980320: getState() :  mService = null. Returning STATE_OFF
+12-14 02:38:48.750 D/BluetoothManagerService(447): checkIfCallerIsForegroundUser: valid=true callingUser=0 foregroundUser=0
+12-14 02:38:48.750 D/BluetoothManagerService(447): enable():  mBluetooth =null mBinding = false
+12-14 02:38:48.800 D/BluetoothManagerService(447): Message: 1
+12-14 02:38:48.790 I/backup_data_changed(447): com.android.providers.settings
+12-14 02:38:48.800 D/BluetoothManagerService(447): MESSAGE_ENABLE: mBluetooth = null
+12-14 02:38:48.800 I/am_create_service(447): [0,1090652136,com.android.bluetooth/.btservice.AdapterService,5422]
+12-14 02:38:48.810 D/BluetoothAdapterService(5422): REFCOUNT: CREATED. INSTANCE_COUNT2
+12-14 02:38:48.810 D/BluetoothAdapterState(5422): make
+12-14 02:38:48.810 I/bluedroid(5422): init
+12-14 02:38:48.810 I/bte_conf(5422): Attempt to load stack conf from /etc/bluetooth/bt_stack.conf
+12-14 02:38:48.820 I/bluedroid(5422): get_profile_interface socket
+12-14 02:38:48.820 I/GKI_LINUX(5422): gki_task_entry: gki_task_entry task_id=1 [BTIF] starting
+12-14 02:38:48.830 D/BluetoothManagerService(447): BluetoothServiceConnection: connected to AdapterService
+12-14 02:38:48.830 D/BluetoothManagerService(447): Message: 40
+12-14 02:38:48.830 D/BluetoothManagerService(447): MESSAGE_BLUETOOTH_SERVICE_CONNECTED
+12-14 02:38:48.830 D/BluetoothManagerService(447): Calling onBluetoothServiceUp callbacks
+12-14 02:38:48.830 D/BluetoothManagerService(447): Broadcasting onBluetoothServiceUp() to 11 receivers.
+12-14 02:38:48.830 D/BluetoothManagerService(447): Bluetooth Adapter name changed to 4GS viii
+12-14 02:38:48.830 D/BluetoothManagerService(447): Stored Bluetooth name: 4GS viii
+12-14 02:38:48.840 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:48.850 D/BluetoothAdapterService(5422): Broadcasting updateAdapterState() to 1 receivers.
+12-14 02:38:48.850 D/BluetoothManagerService(447): Message: 60
+12-14 02:38:48.870 I/am_create_service(447): [0,1098455224,com.android.bluetooth/.hfp.HeadsetService,5422]
+12-14 02:38:48.850 D/BluetoothManagerService(447): MESSAGE_BLUETOOTH_STATE_CHANGE: prevState = 10, newState=11
+12-14 02:38:48.880 I/am_create_service(447): [0,1095843352,com.android.bluetooth/.a2dp.A2dpService,5422]
+12-14 02:38:48.850 D/BluetoothManagerService(447): Bluetooth State Change Intent: 10 -> 11
+12-14 02:38:48.880 I/am_create_service(447): [0,1095776104,com.android.bluetooth/.hid.HidService,5422]
+12-14 02:38:48.850 D/BluetoothBondStateMachine(5422): make
+12-14 02:38:48.890 I/am_create_service(447): [0,1096413056,com.android.bluetooth/.hdp.HealthService,5422]
+12-14 02:38:48.860 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:48.900 I/am_create_service(447): [0,1091760992,com.android.bluetooth/.pan.PanService,5422]
+12-14 02:38:48.860 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:48.860 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:48.860 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:48.870 I/BluetoothBondStateMachine(5422): StableState(): Entering Off State
+12-14 02:38:48.880 D/HeadsetService(5422): Received start request. Starting profile...
+12-14 02:38:48.880 D/HeadsetStateMachine(5422): make
+12-14 02:38:48.880 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:48.890 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:48.900 I/bluedroid(5422): get_profile_interface handsfree
+12-14 02:38:48.900 E/bt-btif (5422): btif_enable_service: current services:0x100040
+12-14 02:38:48.910 D/A2dpService(5422): Received start request. Starting profile...
+12-14 02:38:48.910 D/A2dpStateMachine(5422): make
+12-14 02:38:48.910 I/bluedroid(5422): get_profile_interface a2dp
+12-14 02:38:48.910 I/GKI_LINUX(5422): gki_task_entry: gki_task_entry task_id=2 [A2DP-MEDIA] starting
+12-14 02:38:48.910 E/bt-btif (5422): btif_enable_service: current services:0x140040
+12-14 02:38:48.920 D/HidService(5422): Received start request. Starting profile...
+12-14 02:38:48.920 I/bluedroid(5422): get_profile_interface hidhost
+12-14 02:38:48.920 E/bt-btif (5422): btif_enable_service: current services:0x140040
+12-14 02:38:48.920 D/HealthService(5422): Received start request. Starting profile...
+12-14 02:38:48.920 D/A2dpStateMachine(5422): Enter Disconnected: -2
+12-14 02:38:48.920 I/bluedroid(5422): get_profile_interface health
+12-14 02:38:48.930 D/BluetoothAdapterService(5422): Profile still not running:com.android.bluetooth.hdp.HealthService
+12-14 02:38:48.930 D/PanService(5422): Received start request. Starting profile...
+12-14 02:38:48.930 D/BluetoothPanServiceJni(5422): initializeNative(L110): pan
+12-14 02:38:48.930 I/bluedroid(5422): get_profile_interface pan
+12-14 02:38:48.930 D/BluetoothAdapterService(5422): Profile still not running:com.android.bluetooth.hdp.HealthService
+12-14 02:38:48.930 D/BluetoothAdapterService(5422): Profile still not running:com.android.bluetooth.hdp.HealthService
+12-14 02:38:48.930 D/BluetoothAdapterService(5422): Profile still not running:com.android.bluetooth.pan.PanService
+12-14 02:38:48.930 D/BluetoothMasReceiver(5422): Bluetooth STATE CHANGED to 11
+12-14 02:38:48.940 I/bluedroid(5422): enable
+12-14 02:38:48.940 I/bt_hci_bdroid(5422): init
+12-14 02:38:48.940 I/bt_vendor(5422): init
+12-14 02:38:48.940 I/bt_vnd_conf(5422): Attempt to load conf from /etc/bluetooth/bt_vendor.conf
+12-14 02:38:48.940 D/BTSNOOP-DISP(5422): btsnoop_open
+12-14 02:38:48.940 I/bt_hci_bdroid(5422): bt_hc_worker_thread started
+12-14 02:38:48.990 I/bt_userial_vendor(5422): userial vendor open: opening /dev/ttyHS0
+12-14 02:38:48.990 I/bt_userial_vendor(5422): device fd = 75 open
+12-14 02:38:48.990 I/GKI_LINUX(5422): gki_task_entry: gki_task_entry task_id=0 [BTU] starting
+12-14 02:38:49.000 D/AuthorizationBluetoothService(848): Received Bluetooth event: Intent { act=android.bluetooth.adapter.action.STATE_CHANGED flg=0x8000010 cmp=com.google.android.gms/.auth.be.proximity.authorization.bt.AuthorizationBluetoothService$BluetoothStateChangeReceiver (has extras) }.
+12-14 02:38:49.100 D/PBL-BT  (4944): 02:38:49.054 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:49.120 I/bt_hwcfg(5422): bt vendor lib: set UART baud 3000000
+12-14 02:38:49.150 D/bt_hwcfg(5422): Chipset BCM4329B1
+12-14 02:38:49.150 D/bt_hwcfg(5422): Target name = [BCM4329B1]
+12-14 02:38:49.160 D/bt_hwcfg(5422): Target name = [BCM4329]
+12-14 02:38:49.160 I/bt_hwcfg(5422): Found patchfile: /system/vendor/firmware//bcm4329.hcd
+12-14 02:38:49.210 E/bt_h4   (5422): [h4] Unknown HCI message type drop this byte 0x34
+12-14 02:38:49.210 E/bt_h4   (5422): [h4] Unknown HCI message type drop this byte 0x31
+12-14 02:38:49.461 I/bt_hwcfg(5422): bt vendor lib: set UART baud 115200
+12-14 02:38:49.461 D/bt_hwcfg(5422): Settlement delay -- 100 ms
+12-14 02:38:49.571 I/bt_hwcfg(5422): bt vendor lib: set UART baud 3000000
+12-14 02:38:49.571 I/bt_hwcfg(5422): Setting local bd addr to D4:20:6D:19:D3:4C
+12-14 02:38:49.601 I/bt_hwcfg(5422): vendor lib fwcfg completed
+12-14 02:38:49.601 I/        (5422): BTE_InitTraceLevels -- TRC_HCI
+12-14 02:38:49.601 I/        (5422): BTE_InitTraceLevels -- TRC_L2CAP
+12-14 02:38:49.601 I/        (5422): BTE_InitTraceLevels -- TRC_RFCOMM
+12-14 02:38:49.601 I/        (5422): BTE_InitTraceLevels -- TRC_AVDT
+12-14 02:38:49.601 I/        (5422): BTE_InitTraceLevels -- TRC_AVRC
+12-14 02:38:49.601 I/        (5422): BTE_InitTraceLevels -- TRC_A2D
+12-14 02:38:49.601 I/        (5422): BTE_InitTraceLevels -- TRC_BNEP
+12-14 02:38:49.601 I/        (5422): BTE_InitTraceLevels -- TRC_BTM
+12-14 02:38:49.601 I/        (5422): BTE_InitTraceLevels -- TRC_PAN
+12-14 02:38:49.601 I/        (5422): BTE_InitTraceLevels -- TRC_SDP
+12-14 02:38:49.601 I/        (5422): BTE_InitTraceLevels -- TRC_BTAPP
+12-14 02:38:49.601 I/        (5422): BTE_InitTraceLevels -- TRC_BTIF
+12-14 02:38:49.641 E/bt-btif (5422): Calling BTA_HhEnable
+12-14 02:38:49.641 E/bt-btif (5422): ## btif_config_get assert section && *section && key && *key && name && *name && bytes && type failed at line:182 ##
+12-14 02:38:49.641 E/bt-btif (5422): btif_storage_get_adapter_property service_mask:0x140040
+12-14 02:38:49.651 D/BluetoothManagerService(447): Bluetooth Adapter name changed to 4GS viii
+12-14 02:38:49.651 D/BluetoothManagerService(447): Stored Bluetooth name: 4GS viii
+12-14 02:38:49.661 D/PBL-BT  (4944): 02:38:49.671 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:49.681 E/BluetoothRemoteDevices(5422): devicePropertyChangedCallback: bdDevice: 00:07:04:C8:76:3D, value is empty for type: 10
+12-14 02:38:49.691 W/BluetoothHeadset(4827): Proxy not attached to service
+12-14 02:38:49.691 W/BluetoothA2dp(4827): Proxy not attached to service
+12-14 02:38:49.691 E/BluetoothRemoteDevices(5422): devicePropertyChangedCallback: bdDevice: 00:18:33:E0:EC:CE, value is empty for type: 10
+12-14 02:38:49.701 E/BluetoothRemoteDevices(5422): devicePropertyChangedCallback: bdDevice: 00:23:7F:1F:ED:D4, value is empty for type: 10
+12-14 02:38:49.701 D/PBL-BT  (4944): 02:38:49.714 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:49.711 E/BluetoothRemoteDevices(5422): devicePropertyChangedCallback: bdDevice: 00:18:6B:72:DB:66, value is empty for type: 10
+12-14 02:38:49.791 I/notification_cancel(447): [com.android.phone,2,NULL,0,0,64]
+12-14 02:38:49.711 I/bt_hwcfg(5422): SCO PCM configure {0, 0, 0, 0, 0}
+12-14 02:38:49.801 I/binder_sample(4944): [android.bluetooth.IBluetooth,1,39,com.getpebble.android,7]
+12-14 02:38:49.711 I/bte_conf(5422): Attempt to load did conf from /etc/bluetooth/bt_did.conf
+12-14 02:38:49.711 D/        (5422): bta_pan_co_init
+12-14 02:38:49.711 I/bte_conf(5422): [1] primary_record=1 vendor_id=0x000F vendor_id_source=0x0001 product_id=0x1200 version=0x1436
+12-14 02:38:49.711 I/bte_conf(5422): Attempt to load did conf from /etc/bluetooth/bt_did.conf
+12-14 02:38:49.711 I/bte_conf(5422): Attempt to load did conf from /etc/bluetooth/bt_did.conf
+12-14 02:38:49.711 E/bt-btif (5422): ## btif_config_get assert section && *section && key && *key && name && *name && bytes && type failed at line:182 ##
+12-14 02:38:49.711 D/BluetoothPanServiceJni(5422): control_state_callback(L61): state:0, local_role:0, ifname:bt-pan
+12-14 02:38:49.711 D/BluetoothAdapterProperties(5422): ScanMode =  20
+12-14 02:38:49.711 D/BluetoothAdapterProperties(5422): State =  11
+12-14 02:38:49.711 D/BluetoothAdapterService(5422): Broadcasting updateAdapterState() to 1 receivers.
+12-14 02:38:49.711 W/BluetoothHeadset(4827): Proxy not attached to service
+12-14 02:38:49.711 W/BluetoothA2dp(4827): Proxy not attached to service
+12-14 02:38:49.721 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.721 D/BluetoothManagerService(447): Message: 60
+12-14 02:38:49.721 D/BluetoothManagerService(447): MESSAGE_BLUETOOTH_STATE_CHANGE: prevState = 11, newState=12
+12-14 02:38:49.721 D/BluetoothManagerService(447): Broadcasting onBluetoothStateChange(true) to 10 receivers.
+12-14 02:38:49.721 D/BluetoothA2dp(4827): onBluetoothStateChange: up=true
+12-14 02:38:49.721 D/BluetoothAdapterService(1089157744)( 5422): Get Bonded Devices being called
+12-14 02:38:49.731 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.731 W/BluetoothHeadset(4827): Proxy not attached to service
+12-14 02:38:49.731 W/BluetoothA2dp(4827): Proxy not attached to service
+12-14 02:38:49.731 D/BluetoothAdapterService(5422): Auto Connecting Headset Profile with device 00:18:6B:72:DB:66
+12-14 02:38:49.731 D/PBL-BT  (4944): 02:38:49.746 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:49.731 W/ContextImpl(4827): Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1458 android.content.ContextWrapper.bindService:473 android.bluetooth.BluetoothA2dp$1.onBluetoothStateChange:131 android.bluetooth.IBluetoothStateChangeCallback$Stub.onTransact:55 android.os.Binder.execTransact:351 
+12-14 02:38:49.741 E/bt_h4   (5422): vendor lib postload completed
+12-14 02:38:49.741 D/BluetoothAdapterService(1089157744)( 5422): Get Bonded Devices being called
+12-14 02:38:49.741 I/BluetoothHeadsetServiceJni(5422): connectHfpNative: sBluetoothHfpInterface: 0x5a3ff760
+12-14 02:38:49.741 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.751 D/BluetoothAdapterProperties(5422): CONNECTION_STATE_CHANGE: 00:18:6B:72:DB:66: 0 -> 1
+12-14 02:38:49.751 D/BluetoothHeadset(447): onBluetoothStateChange: up=true
+12-14 02:38:49.751 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.751 W/ContextImpl(447): Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1458 android.bluetooth.BluetoothHeadset$1.onBluetoothStateChange:244 com.android.server.BluetoothManagerService.sendBluetoothStateCallback:471 com.android.server.BluetoothManagerService.bluetoothStateChangeHandler:1049 com.android.server.BluetoothManagerService.access$2700:46 
+12-14 02:38:49.761 D/BluetoothHeadset(627): onBluetoothStateChange: up=true
+12-14 02:38:49.761 D/BluetoothHeadset(447): Proxy object connected
+12-14 02:38:49.771 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.771 D/BluetoothAdapterService(5422): Auto Connecting A2DP Profile with device 00:18:6B:72:DB:66
+12-14 02:38:49.771 D/A2dpStateMachine(5422): Disconnected process message: 1
+12-14 02:38:49.771 D/BluetoothHeadset(4827): onBluetoothStateChange: up=true
+12-14 02:38:49.771 D/BluetoothAdapterService(1089157744)( 5422): Get Bonded Devices being called
+12-14 02:38:49.771 I/BluetoothA2dpServiceJni(5422): connectA2dpNative: sBluetoothA2dpInterface: 0x5a3ff7b8
+12-14 02:38:49.771 D/A2dpStateMachine(5422): Exit Disconnected: 1
+12-14 02:38:49.771 D/A2dpStateMachine(5422): Enter Pending: 1
+12-14 02:38:50.001 I/am_create_service(447): [0,1092750384,com.android.bluetooth/.pbap.BluetoothPbapService,5422]
+12-14 02:38:49.771 W/ContextImpl(4827): Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1458 android.content.ContextWrapper.bindService:473 android.bluetooth.BluetoothHeadset$1.onBluetoothStateChange:244 android.bluetooth.IBluetoothStateChangeCallback$Stub.onTransact:55 android.os.Binder.execTransact:351 
+12-14 02:38:50.021 I/am_create_service(447): [0,1099905808,com.android.settings/.bluetooth.DockService,4827]
+12-14 02:38:49.781 D/BluetoothPan(4827): onBluetoothStateChange(on) call bindService
+12-14 02:38:50.041 I/am_destroy_service(447): [0,1099905808,4827]
+12-14 02:38:49.781 D/A2dpStateMachine(5422): Connection state 00:18:6B:72:DB:66: 0->1
+12-14 02:38:50.051 I/am_create_service(447): [0,1097850840,com.android.bluetooth/.opp.BluetoothOppService,5422]
+12-14 02:38:49.781 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:50.071 I/notification_cancel_all(447): [com.android.bluetooth,0,0,64]
+12-14 02:38:49.781 D/BluetoothPan(4827): BluetoothPan(), bindService called
+12-14 02:38:50.081 I/am_create_service(447): [0,1095832264,com.android.bluetooth/.map.BluetoothMasService,5422]
+12-14 02:38:49.781 D/BluetoothPbap(4827): onBluetoothStateChange: up=true
+12-14 02:38:50.161 I/notification_cancel(447): [com.android.bluetooth,-1000005,NULL,0,0,64]
+12-14 02:38:49.781 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:50.171 I/notification_cancel(447): [com.android.bluetooth,-1000006,NULL,0,0,64]
+12-14 02:38:49.781 W/ContextImpl(4827): Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1458 android.content.ContextWrapper.bindService:473 android.bluetooth.BluetoothPan$1.onBluetoothStateChange:173 android.bluetooth.IBluetoothStateChangeCallback$Stub.onTransact:55 android.os.Binder.execTransact:351 
+12-14 02:38:49.781 W/ContextImpl(4827): Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1458 android.content.ContextWrapper.bindService:473 android.bluetooth.BluetoothPbap$1.onBluetoothStateChange:132 android.bluetooth.IBluetoothStateChangeCallback$Stub.onTransact:55 android.os.Binder.execTransact:351 
+12-14 02:38:50.261 I/am_create_service(447): [0,1089530776,com.getpebble.android/.core.PebbleService,4944]
+12-14 02:38:49.791 D/BluetoothHeadset(627): Proxy object connected
+12-14 02:38:49.791 D/BluetoothInputDevice(4827): onBluetoothStateChange: up=true
+12-14 02:38:49.791 D/BluetoothHeadset(627): onBluetoothStateChange: up=true
+12-14 02:38:49.791 W/ContextImpl(4827): Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1458 android.content.ContextWrapper.bindService:473 android.bluetooth.BluetoothInputDevice$1.onBluetoothStateChange:209 android.bluetooth.IBluetoothStateChangeCallback$Stub.onTransact:55 android.os.Binder.execTransact:351 
+12-14 02:38:49.801 W/BluetoothHeadset(4827): Proxy not attached to service
+12-14 02:38:49.801 D/BluetoothHeadset(627): Proxy object connected
+12-14 02:38:49.801 D/BluetoothPan(447): onBluetoothStateChange(on) call bindService
+12-14 02:38:49.801 W/BluetoothHeadset(4827): Proxy not attached to service
+12-14 02:38:49.801 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.801 D/BluetoothPan(447): BluetoothPAN Proxy object connected
+12-14 02:38:49.801 D/BluetoothPan(447): BluetoothPan(), bindService called
+12-14 02:38:49.801 D/BluetoothA2dp(447): onBluetoothStateChange: up=true
+12-14 02:38:49.801 W/ContextImpl(447): Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1458 android.bluetooth.BluetoothPan$1.onBluetoothStateChange:173 com.android.server.BluetoothManagerService.sendBluetoothStateCallback:471 com.android.server.BluetoothManagerService.bluetoothStateChangeHandler:1049 com.android.server.BluetoothManagerService.access$2700:46 
+12-14 02:38:49.811 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.811 D/BluetoothA2dp(447): Proxy object connected
+12-14 02:38:49.811 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.811 W/BluetoothHeadset(4827): Proxy not attached to service
+12-14 02:38:49.811 D/BluetoothManagerService(447): Bluetooth State Change Intent: 11 -> 12
+12-14 02:38:49.811 W/ContextImpl(447): Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1458 android.bluetooth.BluetoothA2dp$1.onBluetoothStateChange:131 com.android.server.BluetoothManagerService.sendBluetoothStateCallback:471 com.android.server.BluetoothManagerService.bluetoothStateChangeHandler:1049 com.android.server.BluetoothManagerService.access$2700:46 
+12-14 02:38:49.821 W/BluetoothHeadset(4827): Proxy not attached to service
+12-14 02:38:49.821 W/BluetoothA2dp(4827): Proxy not attached to service
+12-14 02:38:49.831 W/BluetoothHeadset(4827): Proxy not attached to service
+12-14 02:38:49.831 W/BluetoothA2dp(4827): Proxy not attached to service
+12-14 02:38:49.841 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.841 W/BluetoothHeadset(4827): Proxy not attached to service
+12-14 02:38:49.841 W/BluetoothA2dp(4827): Proxy not attached to service
+12-14 02:38:49.841 D/CachedBluetoothDevice(4827): onProfileStateChanged: profile HEADSET newProfileState 1
+12-14 02:38:49.841 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.841 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.851 D/BluetoothAdapterService(1089157744)( 5422): Get Bonded Devices being called
+12-14 02:38:49.851 W/BluetoothSystemReceiver(4944): BluetoothDevice.ACTION_UUID for 00:07:04:C8:76:3D
+12-14 02:38:49.851 W/BluetoothSystemReceiver(4944): BluetoothDevice.ACTION_UUID: new UUID [0]: 0000111e-0000-1000-8000-00805f9b34fb
+12-14 02:38:49.851 E/BluetoothSystemReceiver(4944): Exception: null
+12-14 02:38:49.861 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.871 D/PBL-BT  (4944): 02:38:49.888 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:49.881 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.881 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.881 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.881 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.891 D/BluetoothAdapterService(1089157744)( 5422): Get Bonded Devices being called
+12-14 02:38:49.891 D/PBL-BT  (4944): 02:38:49.902 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:49.891 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.901 D/BluetoothA2dp(4827): Proxy object connected
+12-14 02:38:49.901 D/A2dpProfile(4827): Bluetooth service connected
+12-14 02:38:49.901 D/BluetoothHeadset(4827): Proxy object connected
+12-14 02:38:49.901 D/HeadsetProfile(4827): Bluetooth service connected
+12-14 02:38:49.901 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.911 D/CachedBluetoothDevice(4827): onProfileStateChanged: profile A2DP newProfileState 1
+12-14 02:38:49.911 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:50.321 I/notification_enqueue(447): [com.getpebble.android,4243,NULL,0,Notification(pri=0 contentView=com.getpebble.android/0x109008f vibrate=null sound=null defaults=0x0 flags=0x4a kind=[null])]
+12-14 02:38:49.911 W/BluetoothSystemReceiver(4944): BluetoothDevice.ACTION_UUID for 00:18:33:E0:EC:CE
+12-14 02:38:49.911 W/BluetoothSystemReceiver(4944): BluetoothDevice.ACTION_UUID: new UUID [0]: 00001101-0000-1000-8000-00805f9b34fb
+12-14 02:38:49.911 D/BluetoothPan(4827): BluetoothPAN Proxy object connected
+12-14 02:38:49.911 D/PanProfile(4827): Bluetooth service connected
+12-14 02:38:49.911 E/BluetoothSystemReceiver(4944): Exception: null
+12-14 02:38:49.911 D/BluetoothInputDevice(4827): Proxy object connected
+12-14 02:38:49.911 D/HidProfile(4827): Bluetooth service connected
+12-14 02:38:49.911 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.921 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.921 D/BluetoothAdapterService(1089157744)( 5422): Get Bonded Devices being called
+12-14 02:38:49.921 D/PBL-BT  (4944): 02:38:49.932 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:49.921 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.931 D/PBL-BT  (4944): 02:38:49.949 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:49.941 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.941 W/BluetoothSystemReceiver(4944): BluetoothDevice.ACTION_UUID for 00:23:7F:1F:ED:D4
+12-14 02:38:49.941 W/BluetoothSystemReceiver(4944): BluetoothDevice.ACTION_UUID: new UUID [0]: 00001108-0000-1000-8000-00805f9b34fb
+12-14 02:38:49.941 E/BluetoothSystemReceiver(4944): Exception: null
+12-14 02:38:49.951 D/PBL-BT  (4944): 02:38:49.964 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:49.951 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.961 D/PBL-BT  (4944): 02:38:49.977 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:49.971 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.971 W/BluetoothSystemReceiver(4944): BluetoothDevice.ACTION_UUID for 00:18:6B:72:DB:66
+12-14 02:38:49.971 W/BluetoothSystemReceiver(4944): BluetoothDevice.ACTION_UUID: new UUID [0]: 00001101-0000-1000-8000-00805f9b34fb
+12-14 02:38:49.971 E/BluetoothSystemReceiver(4944): Exception: null
+12-14 02:38:49.981 D/PBL-BT  (4944): 02:38:49.992 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:49.981 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:49.991 D/PBL-BT  (4944): 02:38:50.003 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:49.991 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:50.021 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:50.021 W/ContextImpl(4827): Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1404 android.content.ContextWrapper.startService:450 android.content.ContextWrapper.startService:450 com.android.settings.bluetooth.DockEventReceiver.beginStartingService:134 com.android.settings.bluetooth.DockEventReceiver.onReceive:115 
+12-14 02:38:50.031 D/BluetoothPbap(4827): Proxy object connected
+12-14 02:38:50.031 D/PbapServerProfile(4827): Bluetooth service connected
+12-14 02:38:50.041 D/BluetoothManagerService(447): checkIfCallerIsForegroundUser: valid=true callingUser=0 foregroundUser=0
+12-14 02:38:50.041 D/DockEventReceiver(4827): finishStartingService: stopping service
+12-14 02:38:50.081 D/BluetoothMasReceiver(5422): Bluetooth STATE CHANGED to 12
+12-14 02:38:50.091 D/dalvikvm(6105): GC_CONCURRENT freed 4614K, 47% free 5746K/10660K, paused 6ms+35ms, total 193ms
+12-14 02:38:50.091 W/BluetoothAdapter(5422): getBluetoothService() called with no BluetoothManagerCallback
+12-14 02:38:50.091 E/BluetoothServiceJni(5422): SOCK FLAG = 1 ***********************
+12-14 02:38:50.101 D/BluetoothManagerService(447): checkIfCallerIsForegroundUser: valid=true callingUser=0 foregroundUser=0
+12-14 02:38:50.111 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:50.121 W/BluetoothAdapter(5422): getBluetoothService() called with no BluetoothManagerCallback
+12-14 02:38:50.131 E/BluetoothServiceJni(5422): SOCK FLAG = 0 ***********************
+12-14 02:38:50.131 I/BtOppRfcommListener(5422): Accept thread started.
+12-14 02:38:50.131 D/BluetoothManagerService(447): checkIfCallerIsForegroundUser: valid=true callingUser=0 foregroundUser=0
+12-14 02:38:50.141 D/BluetoothManagerService(447): checkIfCallerIsForegroundUser: valid=true callingUser=0 foregroundUser=0
+12-14 02:38:50.141 W/BluetoothAdapter(5422): getBluetoothService() called with no BluetoothManagerCallback
+12-14 02:38:50.141 E/BluetoothServiceJni(5422): SOCK FLAG = 3 ***********************
+12-14 02:38:50.141 W/BluetoothAdapter(5422): getBluetoothService() called with no BluetoothManagerCallback
+12-14 02:38:50.141 E/BluetoothServiceJni(5422): SOCK FLAG = 3 ***********************
+12-14 02:38:50.171 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:50.181 D/AuthorizationBluetoothService(848): Received Bluetooth event: Intent { act=android.bluetooth.adapter.action.STATE_CHANGED flg=0x8000010 cmp=com.google.android.gms/.auth.be.proximity.authorization.bt.AuthorizationBluetoothService$BluetoothStateChangeReceiver (has extras) }.
+12-14 02:38:50.181 E/AuthorizationBluetoothService(848): Proximity feature is not enabled.
+12-14 02:38:50.211 W/InputMethodManagerService(447): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@40f01080 attribute=null, token = android.os.BinderProxy@411e55e0
+12-14 02:38:50.251 D/dalvikvm(4944): GC_CONCURRENT freed 1933K, 54% free 5220K/11284K, paused 2ms+3ms, total 60ms
+12-14 02:38:50.251 D/PBL-BT  (4944): 02:38:50.264 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:50.251 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:50.251 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:50.251 I/PblAndroid(4944): Bluetooth turned on; starting PebbleService
+12-14 02:38:50.281 D/PBL-BT  (4944): 02:38:50.296 BluetoothConnectionManager.registerHandler():173> Registered a new protocol handler 'PHONE_VERSION'
+12-14 02:38:50.281 D/PBL-BT  (4944): 02:38:50.298 BluetoothConnectionManager.registerHandler():173> Registered a new protocol handler 'TIME'
+12-14 02:38:50.281 D/PBL-BT  (4944): 02:38:50.300 BluetoothConnectionManager.registerHandler():173> Registered a new protocol handler 'LOGS'
+12-14 02:38:50.291 D/PBL-BT  (4944): 02:38:50.302 BluetoothConnectionManager.registerHandler():173> Registered a new protocol handler 'MUSIC_CONTROL'
+12-14 02:38:50.291 D/PBL-BT  (4944): 02:38:50.304 BluetoothConnectionManager.registerHandler():173> Registered a new protocol handler 'PHONE_CONTROL'
+12-14 02:38:50.291 D/PBL-BT  (4944): 02:38:50.305 BluetoothConnectionManager.registerHandler():173> Registered a new protocol handler 'APP_MESSAGE'
+12-14 02:38:50.291 D/PBL-BT  (4944): 02:38:50.307 BluetoothConnectionManager.registerHandler():173> Registered a new protocol handler 'APP_LIFECYCLE'
+12-14 02:38:50.301 D/PBL-BT  (4944): 02:38:50.310 BluetoothConnectionManager.registerHandler():173> Registered a new protocol handler 'DATA_LOG'
+12-14 02:38:50.301 D/PblAndroid(4944): PebbleConnection setActualConnectionState = DISCONNECTED_AND_PAIRED
+12-14 02:38:50.301 D/PblAndroid(4944): PebbleConnection setDesiredConnectionState = UNKNOWN
+12-14 02:38:50.301 I/PblDeveloperConnection(4944): DeveloperConnectionServer started: 0.0.0.0
+12-14 02:38:50.301 D/PBL-BT  (4944): 02:38:50.317 BluetoothCompatibilityHacks.getBondedDevicesGuarded():262> entry
+12-14 02:38:50.301 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:50.301 D/BluetoothAdapterService(1089157744)( 5422): Get Bonded Devices being called
+12-14 02:38:50.311 D/PBL-BT  (4944): 02:38:50.322 BluetoothCompatibilityHacks.getBondedDevicesGuarded():276> exit; returning list of 4 items
+12-14 02:38:50.311 I/PblAndroid(4944): Attempting to reconnect to last known Pebble: 00:18:33:E0:EC:CE
+12-14 02:38:50.311 I/PblAndroid(4944): Connecting to: 00:18:33:E0:EC:CE
+12-14 02:38:50.311 D/PblAndroid(4944): connect('00:18:33:E0:EC:CE')
+12-14 02:38:50.311 D/PblAndroid(4944): connect('00:18:33:E0:EC:CE', -1)
+12-14 02:38:50.311 I/PblAndroid(4944): >> Dumping all Connector threads..
+12-14 02:38:50.311 I/PblAndroid(4944): >>> gcd -> removed
+12-14 02:38:50.311 I/PblAndroid(4944): >>> gcd -> removed
+12-14 02:38:50.311 I/PblAndroid(4944): >> end dump of Connector threads..
+12-14 02:38:50.311 D/PblDataLogging(4944): <203> [FROM CURSOR] DataLogSession= 
+12-14 02:38:50.311 D/PblDataLogging(4944): {
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"_id": "15"
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"session_id": "-53"
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"uuid": "00000000-0000-0000-0000-000000000000"
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"timestamp": "1417398970"
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"data_log_tag": "78"
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"pbl_data_type": "BYTES"
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"item_size ": "269"
+12-14 02:38:50.311 D/PblDataLogging(4944): }
+12-14 02:38:50.311 D/PblDataLogging(4944): 
+12-14 02:38:50.311 D/PblDataLogging(4944): <78> [FROM CURSOR] DataLogSession= 
+12-14 02:38:50.311 D/PblDataLogging(4944): {
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"_id": "16"
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"session_id": "78"
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"uuid": "00000000-0000-0000-0000-000000000000"
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"timestamp": "1417398970"
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"data_log_tag": "78"
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"pbl_data_type": "BYTES"
+12-14 02:38:50.311 D/PblDataLogging(4944): 	"item_size ": "145"
+12-14 02:38:50.311 D/PblDataLogging(4944): }
+12-14 02:38:50.311 D/PblDataLogging(4944): 
+12-14 02:38:50.311 D/PBL-BT  (4944): 02:38:50.326 BluetoothConnectionManager.connect():226> Attempting to connect to '00:18:33:E0:EC:CE'; uid=0 maxAttempts=100, backoffSeconds=1
+12-14 02:38:50.311 D/PblAndroid(4944): Connecting to 00:18:33:E0:EC:CE
+12-14 02:38:50.311 D/PblAndroid(4944): PebbleConnection setDesiredConnectionState = CONNECTED_AND_PAIRED
+12-14 02:38:50.311 D/PblAndroid(4944): PebbleConnection setActualConnectionState = CONNECTING
+12-14 02:38:50.311 E/PblAndroid(4944): 00:18:33:E0:EC:CEActualConnectionState=Connecting, DesiredConnectionState=Connected and paired
+12-14 02:38:50.311 D/PBL-BT  (4944): 02:38:50.329 BluetoothConnectionManager.signalConnectionChanged():458> CONNECTING
+12-14 02:38:50.311 I/PblAndroid(4944): (3) PebbleConnectorThread()
+12-14 02:38:50.311 I/PblAndroid(4944): (3) setDebugState: constructed
+12-14 02:38:50.321 I/PblAndroid(4944): (3) setDebugState: runAnyVersion() for version class: JELLYBEAN_4243
+12-14 02:38:50.321 I/PblAndroid(4944): (3) setDebugState: connecting to device: 00:18:33:E0:EC:CE
+12-14 02:38:50.321 I/PblAndroid(4944): (3) bondState = 12 address = 00:18:33:E0:EC:CE class = f00704 name = Pebble ECCE
+12-14 02:38:50.331 I/PblAndroid(4944): (3) setDebugState: createRfcommSocketToServiceRecord
+12-14 02:38:50.331 I/PblAndroid(4944): (3) setDebugState: cwchf socket.connect() btSocket.isConnected() = false
+12-14 02:38:50.331 W/BluetoothAdapter(4944): getBluetoothService() called with no BluetoothManagerCallback
+12-14 02:38:50.331 D/BTIF_SOCK(5422): service_uuid: 00001101-0000-1000-8000-00805f9b34fb
+12-14 02:38:50.331 D/BluetoothSocket(4944): connect(), SocketState: INIT, mPfd: {ParcelFileDescriptor: FileDescriptor[74]}
+12-14 02:38:50.402 D/dalvikvm(548): GC_FOR_ALLOC freed 2022K, 33% free 7947K/11780K, paused 22ms, total 22ms
+12-14 02:38:51.112 I/notification_cancel(447): [com.android.bluetooth,-1000005,NULL,0,0,64]
+12-14 02:38:51.112 I/notification_cancel(447): [com.android.bluetooth,-1000006,NULL,0,0,64]
+12-14 02:38:51.813 D/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::standby()
+12-14 02:38:51.813 D/AudioHardwareMSM8660(141): Deroute pcm stream
+12-14 02:38:51.813 D/AudioHardwareMSM8660(141): deleteFromTable stream 1
+12-14 02:38:51.813 D/AudioHardwareMSM8660(141): updateDeviceInfo: E
+12-14 02:38:51.813 D/AudioHardwareMSM8660(141): simple device switch
+12-14 02:38:51.813 E/AudioHardwareMSM8660(141): value of device and enable is 2 0 ALSA dev id:2
+12-14 02:38:51.873 E/AudioHardwareMSM8660(141): value of device and enable is 3 0 ALSA dev id:4
+12-14 02:38:51.883 D/AudioHardwareMSM8660(141): do_aic3254_control device: 1 mode: 0 record: 0
+12-14 02:38:51.883 D/AudioHardwareMSM8660(141): do_aic3254_control: set aic3254 rx to 29
+12-14 02:38:51.923 I/AudioHardwareMSM8660(141): aic3254 powered off
+12-14 02:38:52.323 W/bt-btif (5422): info:x10
+12-14 02:38:52.413 I/HeadsetService(4751): Headset=false; Bluetooth=true
+12-14 02:38:52.413 I/HeadsetService(4751): Selected configuration: bluetooth
+12-14 02:38:52.474 I/Effect-DRC(141): Compression factor set to: 1.000000
+12-14 02:38:52.474 I/Effect-BassBoost(141): New strength: 0
+12-14 02:38:52.474 I/Effect-Equalizer(141): Setting band 0 to 0
+12-14 02:38:52.474 I/Effect-Equalizer(141): Setting band 1 to 0
+12-14 02:38:52.474 I/Effect-Equalizer(141): Setting band 2 to 0
+12-14 02:38:52.484 I/Effect-Equalizer(141): Setting band 3 to 0
+12-14 02:38:52.484 I/Effect-Equalizer(141): Setting band 4 to 0
+12-14 02:38:52.484 I/Effect-Equalizer(141): Setting loudness correction reference to 100.000000 dB
+12-14 02:38:52.514 I/BTConnectionReceiver(1348): onReceive(context, Intent { act=android.bluetooth.device.action.ACL_CONNECTED flg=0x8000010 cmp=com.google.android.googlequicksearchbox/com.google.android.search.core.service.BluetoothConnectionReceiver (has extras) }, [BluetoothDevice: address=00:18:6B:72:DB:66, alias=null, name=LG HBS750, majorDeviceClass=1024, deviceClass=1028]
+12-14 02:38:52.514 I/BluetoothClassifier(1348): Bluetooth Device Name: LG HBS750
+12-14 02:38:52.534 D/PBL-BT  (4944): 02:38:52.545 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:52.534 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:52.534 W/PblAndroid(4944): ACTION_ACL_CONNECTED  for device 00:18:6B:72:DB:66
+12-14 02:38:52.654 W/bt-sdp  (5422): process_service_search_attr_rsp
+12-14 02:38:52.964 W/bt-btif (5422): info:x10
+12-14 02:38:52.974 I/HeadsetService(4751): Headset=false; Bluetooth=true
+12-14 02:38:52.974 I/BTConnectionReceiver(1348): onReceive(context, Intent { act=android.bluetooth.device.action.ACL_CONNECTED flg=0x8000010 cmp=com.google.android.googlequicksearchbox/com.google.android.search.core.service.BluetoothConnectionReceiver (has extras) }, [BluetoothDevice: address=00:18:33:E0:EC:CE, alias=null, name=Pebble ECCE, majorDeviceClass=1792, deviceClass=1796]
+12-14 02:38:52.974 I/BluetoothClassifier(1348): Bluetooth Device Name: Pebble ECCE
+12-14 02:38:52.984 D/PBL-BT  (4944): 02:38:52.996 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:52.994 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:52.994 W/PblAndroid(4944): ACTION_ACL_CONNECTED  for device 00:18:33:E0:EC:CE
+12-14 02:38:53.134 W/bt-sdp  (5422): process_service_search_attr_rsp
+12-14 02:38:53.374 W/bt-btif (5422): new conn_srvc id:5, app_id:0
+12-14 02:38:53.384 I/notification_cancel(447): [com.android.phone,2,NULL,0,0,64]
+12-14 02:38:53.374 W/bt-btif (5422): bta_dm_pm_ssr conn_srvc id:5, app_id:0
+12-14 02:38:53.374 W/bt-btif (5422): bta_dm_pm_ssr:2, lat:1200
+12-14 02:38:53.374 I/BluetoothHeadsetServiceJni(5422): connection_state_callback
+12-14 02:38:53.374 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:53.374 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:53.384 D/BluetoothAdapterProperties(5422): CONNECTION_STATE_CHANGE: 00:18:6B:72:DB:66: 1 -> 2
+12-14 02:38:53.384 D/BluetoothAdapterService(1089157744)( 5422): Get Bonded Devices being called
+12-14 02:38:53.384 V/AudioHardwareMSM8660(141): setParameters() bt_headset_name=LG HBS750;bt_headset_nrec=on
+12-14 02:38:53.384 D/AudioHardwareMSM8660(141): Using default acoustic parameters (LG HBS750 not in acoustic database)
+12-14 02:38:53.394 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::setParameters() routing=0
+12-14 02:38:53.394 V/AudioHardwareMSM8660(141): set output routing 0
+12-14 02:38:53.394 D/CachedBluetoothDevice(4827): onProfileStateChanged: profile HEADSET newProfileState 2
+12-14 02:38:53.394 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:53.394 D/PBL-BT  (4944): 02:38:53.407 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:38:53.404 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:53.545 D/PblAndroid(4944): (3) I connected!
+12-14 02:38:53.545 D/PblAndroid(4944): PebbleConnection setActualConnectionState = CONNECTED_AND_PAIRED
+12-14 02:38:53.565 E/PblAndroid(4944): 00:18:33:E0:EC:CEActualConnectionState=Connected and paired, DesiredConnectionState=Connected and paired
+12-14 02:38:53.565 D/PBL-BT  (4944): 02:38:53.574 BluetoothConnectionManager.signalConnectionChanged():458> CONNECTED_AND_PAIRED
+12-14 02:38:53.565 I/PblAndroid(4944): Connected to device
+12-14 02:38:53.575 D/PBL-BT  (4944): 02:38:53.589 BluetoothConnectionManager.registerHandler():173> Registered a new protocol handler 'VERSIONS'
+12-14 02:38:53.575 I/PblAndroid(4944): PebbleMessage toJson failed: 16
+12-14 02:38:53.565 I/notification_enqueue(447): [com.getpebble.android,4243,NULL,0,Notification(pri=-2 contentView=com.getpebble.android/0x109008f vibrate=null sound=null defaults=0x0 flags=0x4a kind=[null])]
+12-14 02:38:53.585 D/PBL-BT  (4944): 02:38:53.591 BluetoothConnectionManager.sendMessage():333> sendMessage [{}]
+12-14 02:38:53.605 I/PblAndroid(4944): PebbleMessage toJson failed: 17
+12-14 02:38:53.615 D/PBL-BT  (4944): 02:38:53.618 BluetoothConnectionManager.sendMessage():333> sendMessage [{}]
+12-14 02:38:53.615 I/PblAndroid(4944): PebbleMessage toJson failed: 49
+12-14 02:38:53.615 D/PBL-BT  (4944): 02:38:53.623 BluetoothConnectionManager.sendMessage():333> sendMessage [{}]
+12-14 02:38:53.615 D/JsKit   (4944): launchInstanceOf() for [JsApplicationInfo{app long name ='Twilight-Clock', app short name ='Twilight-Clock', uuid ='deda1158-4285-4a58-a29c-986d1c20bf8c', version code =2, ui version string='2.1', system keys='[]', app capability keys='[ location configurable ]', appinfo digest fingerprint=10446ed5c66fceec5b67ffa9f5b2b974}::(JsInstalledApplicationInfo){/data/data/com.getpebble.android/app_jskit_installed_apps/Twilight-Clock__2}] is a NO-Go. An instance is already registered
+12-14 02:38:53.615 D/PebbleJS(4944): {'runhost client uuid' = 00000000-0000-0000-0000-000000000000}:{'webapp uuid' = deda1158-4285-4a58-a29c-986d1c20bf8c}: ++_JS_LIFECYCLE_++:PREVIOUSLY-RUNNING
+12-14 02:38:53.625 D/PBL-BT  (4944): 02:38:53.635 BluetoothConnectionManager.unregisterHandler():185> Unregistered new protocol handler 'VERSIONS'
+12-14 02:38:53.625 I/PblAndroid(4944): Firmware Version Info time=4 git=32 gitcomit=8 Recoverf=1 hw=1 md=1
+12-14 02:38:53.635 D/PBL-BT  (4944): 02:38:53.642 VersionsResponse$FirmwareVersionInfo.fromByteBuffer():528> VersionBuffer=[size=[150] =[0[0]1[-106]2[0]3[16]4[1]5[84]6[110]7[67]8[112]9[118]10[50]11[46]12[56]13[0]14[0]15[0]16[0]17[0]18[0]19[0]20[0]21[0]22[0]23[0]24[0]25[0]26[0]27[0]28[0]29[0]30[0]31[0]32[0]33[0]34[0]35[0]36[0]37[0]38[0]39[0]40[0]41[49]42[99]43[98]44[49]45[55]46[56]47[97]48[0]49[0]50[4]51[1]52[80]53[-9]54[-119]55[-115]56[118]57[49]58[46]59[53]60[46]61[52]62[0]63[0]64[0]65[0]66[0]67[0]68[0]69[0]70[0]71[0]72[0]73[0]74[0]75[0]76[0]77[0]78[0]79[0]80[0]81[0]82[0]83[0]84[0]85[0]86[0]87[0]88[57]89[98]90[50]91[52]92[49]93[51]94[52]95[0]96[1]97[4]98[1]99[81]100[103]101[125]102[-113]103[86]104[50]105[82]106[50]107[0]108[0]109[0]110[0]111[0]112[51]113[56]114[57]115[48]116[49]117[49]118[69]119[48]120[69]121[67]122[67]123[69]124[-50]125[-20]126[-32]127[51]128[24]129[0]130[-52]131[20]132[-118]133[-85]134[84]135[110]136[67]137[112]138[101]139[110]140[95]141[85]142[83]143[0]144[0]145[1]146[88]147[88]148[88]149[88]]]
+12-14 02:38:53.635 I/PblAndroid(4944): Firmware Version Info time=4 git=32 gitcomit=8 Recoverf=1 hw=1 md=1
+12-14 02:38:53.635 D/PBL-BT  (4944): 02:38:53.648 VersionsResponse$FirmwareVersionInfo.fromByteBuffer():528> VersionBuffer=[size=[150] =[0[0]1[-106]2[0]3[16]4[1]5[84]6[110]7[67]8[112]9[118]10[50]11[46]12[56]13[0]14[0]15[0]16[0]17[0]18[0]19[0]20[0]21[0]22[0]23[0]24[0]25[0]26[0]27[0]28[0]29[0]30[0]31[0]32[0]33[0]34[0]35[0]36[0]37[0]38[0]39[0]40[0]41[49]42[99]43[98]44[49]45[55]46[56]47[97]48[0]49[0]50[4]51[1]52[80]53[-9]54[-119]55[-115]56[118]57[49]58[46]59[53]60[46]61[52]62[0]63[0]64[0]65[0]66[0]67[0]68[0]69[0]70[0]71[0]72[0]73[0]74[0]75[0]76[0]77[0]78[0]79[0]80[0]81[0]82[0]83[0]84[0]85[0]86[0]87[0]88[57]89[98]90[50]91[52]92[49]93[51]94[52]95[0]96[1]97[4]98[1]99[81]100[103]101[125]102[-113]103[86]104[50]105[82]106[50]107[0]108[0]109[0]110[0]111[0]112[51]113[56]114[57]115[48]116[49]117[49]118[69]119[48]120[69]121[67]122[67]123[69]124[-50]125[-20]126[-32]127[51]128[24]129[0]130[-52]131[20]132[-118]133[-85]134[84]135[110]136[67]137[112]138[101]139[110]140[95]141[85]142[83]143[0]144[0]145[1]146[88]147[88]148[88]149[88]]]
+12-14 02:38:53.655 D/ONBOARDING_LOG(4944): 00:18:33:E0:EC:CE : {"lastSceneEncountered":0,"paired":true,"v":1,"pebbleAddress":"00:18:33:E0:EC:CE","connected":true,"completed":false}
+12-14 02:38:53.665 D/PebbleAnalytics(4944): Logged Analytics Events : remote-device-interface
+12-14 02:38:53.675 D/ONBOARDING_LOG(4944): 00:18:33:E0:EC:CE : {"lastSceneEncountered":0,"paired":true,"v":1,"pebbleAddress":"00:18:33:E0:EC:CE","connected":true,"completed":false}
+12-14 02:38:53.685 D/PebbleAnalytics(4944): Logged Analytics Events : events
+12-14 02:38:53.685 I/PblAndroid(4944): PebbleMessage toJson failed: 11
+12-14 02:38:53.685 D/PBL-BT  (4944): 02:38:53.694 BluetoothConnectionManager.sendMessage():333> sendMessage [{}]
+12-14 02:38:53.685 I/PblAndroid(4944): query colour...
+12-14 02:38:53.685 D/PBL-BT  (4944): 02:38:53.695 BluetoothConnectionManager.registerHandler():173> Registered a new protocol handler 'FCT_REG'
+12-14 02:38:53.685 I/PblAndroid(4944): PebbleMessage toJson failed: 5001
+12-14 02:38:53.685 D/PBL-BT  (4944): 02:38:53.698 BluetoothConnectionManager.sendMessage():333> sendMessage [{}]
+12-14 02:38:53.725 D/PBL-BT  (4944): 02:38:53.737 BluetoothConnectionManager.unregisterHandler():185> Unregistered new protocol handler 'FCT_REG'
+12-14 02:38:53.725 I/PblAndroid(4944): RegistryColourResponse read OK valuelength = 4
+12-14 02:38:53.725 I/PblAndroid(4944): RegistryColourResponse: 1
+12-14 02:38:53.725 W/PblAndroid(4944): address = 001833E0ECCE colour = COLOUR_BLACK
+12-14 02:38:53.735 I/PblAndroid(4944): (3) setDebugState: complete
+12-14 02:38:53.735 D/PblDeveloperConnection(4944): Sending connection status:  true
+12-14 02:38:53.735 I/PblAndroid(4944): PebbleMessage toJson failed: 6778
+12-14 02:38:53.745 D/PBL-BT  (4944): 02:38:53.752 BluetoothConnectionManager.sendMessage():333> sendMessage [{}]
+12-14 02:38:53.775 I/BluetoothHeadsetServiceJni(5422): connection_state_callback
+12-14 02:38:53.775 I/BluetoothA2dpServiceJni(5422): bta2dp_connection_state_callback
+12-14 02:38:53.775 E/bt-btif (5422): reset flags
+12-14 02:38:53.785 D/A2dpStateMachine(5422): Pending process message: 101
+12-14 02:38:53.785 D/A2dpStateMachine(5422): Stack and target device are connecting
+12-14 02:38:53.805 D/HeadsetPhoneState(5422): sendDeviceStateChanged. mService=0 mSignal=0 mRoam=0 mBatteryCharge=0
+12-14 02:38:53.805 D/HeadsetPhoneState(5422): sendDeviceStateChanged. mService=0 mSignal=5 mRoam=0 mBatteryCharge=0
+12-14 02:38:53.805 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:53.805 E/HeadsetStateMachine(5422): terminateScoUsingVirtualVoiceCall:No present call to terminate
+12-14 02:38:53.825 D/PblDataLogging(4944): <203> PP: Received open command
+12-14 02:38:53.825 D/PblDataLogging(4944): <203> openNewSession(203, java.nio.ReadOnlyHeapByteBuffer, status: capacity=29 position=2 limit=29)
+12-14 02:38:53.825 D/PblDataLogging(4944): <203> [FROM BUFFER] DataLogSession= 
+12-14 02:38:53.825 D/PblDataLogging(4944): {
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"_id": "-1"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"session_id": "-53"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"uuid": "00000000-0000-0000-0000-000000000000"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"timestamp": "1417398970"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"data_log_tag": "78"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"pbl_data_type": "BYTES"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"item_size ": "269"
+12-14 02:38:53.825 D/PblDataLogging(4944): }
+12-14 02:38:53.825 D/PblDataLogging(4944): 
+12-14 02:38:53.825 D/PblDataLogging(4944): <203> openNewSession: found in map (sessionAsReceived: DataLogSession= 
+12-14 02:38:53.825 D/PblDataLogging(4944): {
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"_id": "-1"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"session_id": "-53"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"uuid": "00000000-0000-0000-0000-000000000000"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"timestamp": "1417398970"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"data_log_tag": "78"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"pbl_data_type": "BYTES"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"item_size ": "269"
+12-14 02:38:53.825 D/PblDataLogging(4944): }
+12-14 02:38:53.825 D/PblDataLogging(4944): 
+12-14 02:38:53.825 D/PblDataLogging(4944): )
+12-14 02:38:53.825 D/PblDataLogging(4944): <203> openNewSession: found in map with matching params
+12-14 02:38:53.825 D/PblDataLogging(4944): <203> openNewSession: found in map with matching params
+12-14 02:38:53.825 D/PblDataLogging(4944): <203> Send ACK to watch session = -53
+12-14 02:38:53.825 I/PblAndroid(4944): PebbleMessage toJson failed: 6778
+12-14 02:38:53.825 D/PBL-BT  (4944): 02:38:53.835 BluetoothConnectionManager.sendMessage():333> sendMessage [{}]
+12-14 02:38:53.825 D/PblDataLogging(4944): <78> PP: Received open command
+12-14 02:38:53.825 D/PblDataLogging(4944): <78> openNewSession(78, java.nio.ReadOnlyHeapByteBuffer, status: capacity=29 position=2 limit=29)
+12-14 02:38:53.825 D/PblDataLogging(4944): <78> [FROM BUFFER] DataLogSession= 
+12-14 02:38:53.825 D/PblDataLogging(4944): {
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"_id": "-1"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"session_id": "78"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"uuid": "00000000-0000-0000-0000-000000000000"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"timestamp": "1417398970"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"data_log_tag": "78"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"pbl_data_type": "BYTES"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"item_size ": "145"
+12-14 02:38:53.825 D/PblDataLogging(4944): }
+12-14 02:38:53.825 D/PblDataLogging(4944): 
+12-14 02:38:53.825 D/PblDataLogging(4944): <78> openNewSession: found in map (sessionAsReceived: DataLogSession= 
+12-14 02:38:53.825 D/PblDataLogging(4944): {
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"_id": "-1"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"session_id": "78"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"uuid": "00000000-0000-0000-0000-000000000000"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"timestamp": "1417398970"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"data_log_tag": "78"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"pbl_data_type": "BYTES"
+12-14 02:38:53.825 D/PblDataLogging(4944): 	"item_size ": "145"
+12-14 02:38:53.825 D/PblDataLogging(4944): }
+12-14 02:38:53.825 D/PblDataLogging(4944): 
+12-14 02:38:53.825 D/PblDataLogging(4944): )
+12-14 02:38:53.825 D/PblDataLogging(4944): <78> openNewSession: found in map with matching params
+12-14 02:38:53.825 D/PblDataLogging(4944): <78> openNewSession: found in map with matching params
+12-14 02:38:53.825 D/PblDataLogging(4944): <78> Send ACK to watch session = 78
+12-14 02:38:53.825 I/PblAndroid(4944): PebbleMessage toJson failed: 6778
+12-14 02:38:53.835 D/PBL-BT  (4944): 02:38:53.840 BluetoothConnectionManager.sendMessage():333> sendMessage [{}]
+12-14 02:38:53.835 V/AudioHardwareMSM8660(141): setParameters() bt_headset_nrec=off
+12-14 02:38:53.835 I/AudioHardwareMSM8660(141): Turning noise reduction and echo cancellation off for BT headset
+12-14 02:38:53.855 E/bt-btif (5422): bta_av_rc_create ACP handle exist for shdl:0
+12-14 02:38:53.855 W/bt-btif (5422): btif_av_state_opening_handler : unhandled event:BTA_AV_PENDING_EVT
+12-14 02:38:53.905 W/bt-sdp  (5422): process_service_search_attr_rsp
+12-14 02:38:56.027 V/AudioHardwareMSM8660(141): open driver
+12-14 02:38:56.037 V/AudioHardwareMSM8660(141): get config
+12-14 02:38:56.037 V/AudioHardwareMSM8660(141): set config
+12-14 02:38:56.037 V/AudioHardwareMSM8660(141): buffer_size: 4800
+12-14 02:38:56.037 V/AudioHardwareMSM8660(141): buffer_count: 2
+12-14 02:38:56.037 V/AudioHardwareMSM8660(141): channel_count: 2
+12-14 02:38:56.037 V/AudioHardwareMSM8660(141): sample_rate: 44100
+12-14 02:38:56.047 E/AudioHardwareMSM8660(141): write(): dec_id = 1 cur_rx = 2
+12-14 02:38:56.047 D/AudioHardwareMSM8660(141): do_aic3254_control device: 1 mode: 0 record: 0
+12-14 02:38:56.047 D/AudioHardwareMSM8660(141): do_aic3254_control: set aic3254 rx to 13
+12-14 02:38:56.057 E/AudioHardwareMSM8660(141): cur_rx for pcm playback = 2
+12-14 02:38:56.057 E/AudioHardwareMSM8660(141): value of device and enable is 2 1 ALSA dev id:2
+12-14 02:38:56.127 D/ACDB-LOADER(141): ACDB -> send_audio_cal, acdb_id = 15, path =  0
+12-14 02:38:56.127 D/ACDB-LOADER(141): ACDB -> send_audtable
+12-14 02:38:56.127 D/ACDB-LOADER(141): ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE
+12-14 02:38:56.127 D/ACDB-LOADER(141): ACDB -> AUDIO_SET_AUDPROC_CAL
+12-14 02:38:56.127 D/ACDB-LOADER(141): ACDB -> send_audvoltable
+12-14 02:38:56.127 D/ACDB-LOADER(141): ACDB -> ACDB_CMD_GET_AUDPROC_GAIN_DEP_VOLTBL_STEP_COPP
+12-14 02:38:56.127 D/ACDB-LOADER(141): ACDB -> AUDIO_SET_AUDPROC_VOL_CAL
+12-14 02:38:56.137 D/AudioHardwareMSM8660(141): addToTable stream 1
+12-14 02:38:56.187 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:56.187 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:56.197 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:56.197 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:38:56.568 E/bt-btif (5422): use_rc:1
+12-14 02:38:56.568 E/bt-btif (5422): bta_av_rc_opened rcb[0] shdl:1 lidx:3/0
+12-14 02:38:56.598 D/EventHub(447): No input device configuration file found for device 'AVRCP'.
+12-14 02:38:56.618 I/EventHub(447): New device: id=9, fd=91, path='/dev/input/event7', name='AVRCP', classes=0x80000001, configuration='', keyLayout='/system/usr/keylayout/AVRCP.kl', keyCharacterMap='/system/usr/keychars/Generic.kcm', builtinKeyboard=false, usingSuspendBlockIoctl=false, usingClockIoctl=false
+12-14 02:38:56.618 I/InputReader(447): Device added: id=9, name='AVRCP', sources=0x00000101
+12-14 02:38:56.658 W/bt-sdp  (5422): process_service_search_attr_rsp
+12-14 02:38:56.708 W/bt-btif (5422): bta_dm_rm_cback:0, status:0
+12-14 02:38:56.708 W/bt-btif (5422): new conn_srvc id:18, app_id:0
+12-14 02:38:56.708 I/BluetoothA2dpServiceJni(5422): bta2dp_connection_state_callback
+12-14 02:38:56.708 D/A2dpStateMachine(5422): Pending process message: 101
+12-14 02:38:56.708 D/A2dpStateMachine(5422): Enter Connected: 101
+12-14 02:38:56.708 I/audio_a2dp_hw(141): adev_open_output_stream: opening output
+12-14 02:38:56.708 I/audio_a2dp_hw(141): skt_connect: connect to /data/misc/bluedroid/.a2dp_ctrl (sz 10240)
+12-14 02:38:56.708 I/audio_a2dp_hw(141): skt_connect: connected to stack fd = 36
+12-14 02:38:56.708 I/audio_a2dp_hw(141): check_a2dp_ready: state 3
+12-14 02:38:56.718 I/AudioFlinger(141): HAL output buffer size 2560 frames, normal mix buffer size 2560 frames
+12-14 02:38:56.718 D/A2dpStateMachine(5422): Connection state 00:18:6B:72:DB:66: 1->2
+12-14 02:38:56.718 D/A2dpStateMachine(5422): A2DP Playing state : device: 00:18:6B:72:DB:66 State:10->11
+12-14 02:38:56.718 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:56.718 D/CachedBluetoothDevice(4827): onProfileStateChanged: profile A2DP newProfileState 2
+12-14 02:38:56.718 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:38:56.728 I/AudioMixer(141): found effect "Multichannel Downmix To Stereo" from The Android Open Source Project
+12-14 02:38:56.728 I/AudioFlinger(141): HAL output buffer size 2560 frames, normal mix buffer size 2560 frames
+12-14 02:38:56.728 I/AudioMixer(141): found effect "Multichannel Downmix To Stereo" from The Android Open Source Project
+12-14 02:38:56.728 I/AudioFlinger(141): AudioFlinger's thread 0x1f975d0 ready to run
+12-14 02:38:56.728 I/AudioFlinger(141): AudioFlinger's thread 0x1f9f868 ready to run
+12-14 02:38:56.738 I/audio_a2dp_hw(141): out_set_parameters: state 3
+12-14 02:38:56.738 I/str_params(141): key: 'a2dp_sink_address' value: '00:18:6B:72:DB:66'
+12-14 02:38:56.748 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::setParameters() routing=0
+12-14 02:38:56.748 V/AudioHardwareMSM8660(141): set output routing 0
+12-14 02:38:56.768 I/audio_a2dp_hw(141): out_set_parameters: state 3
+12-14 02:38:56.768 I/str_params(141): key: 'routing' value: '0'
+12-14 02:38:56.778 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::setParameters() routing=0
+12-14 02:38:56.778 V/AudioHardwareMSM8660(141): set output routing 0
+12-14 02:38:56.798 I/audio_a2dp_hw(141): out_set_parameters: state 3
+12-14 02:38:56.798 I/str_params(141): key: 'routing' value: '0'
+12-14 02:38:56.798 V/AudioHardwareMSM8660(141): setParameters() A2dpSuspended=false
+12-14 02:38:56.798 I/audio_a2dp_hw(141): adev_set_parameters: state 3
+12-14 02:38:56.798 I/audio_a2dp_hw(141): out_set_parameters: state 3
+12-14 02:38:56.798 I/str_params(141): key: 'A2dpSuspended' value: 'false'
+12-14 02:38:57.789 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:38:57.789 W/bt-btif (5422): bta_dm_rm_cback:1, status:7
+12-14 02:38:57.789 W/bt-btif (5422): new conn_srvc id:18, app_id:1
+12-14 02:38:57.799 I/ActivityManager(447): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.andrew.apollo/.ui.activities.HomeActivity} from pid 827
+12-14 02:38:57.829 E/bt-btif (5422): bta_av_link_role_ok hndl:x41 role:0, conn_audio:x1, bits:1, features:x8001
+12-14 02:38:57.829 W/bt-btif (5422): bta_dm_rm_cback:1, status:0
+12-14 02:38:57.829 W/bt-btif (5422): bta_dm_rm_cback:1, status:7
+12-14 02:38:57.829 I/BluetoothA2dpServiceJni(5422): bta2dp_audio_state_callback
+12-14 02:38:57.829 I/audio_a2dp_hw(141): skt_connect: connect to /data/misc/bluedroid/.a2dp_data (sz 10240)
+12-14 02:38:57.829 I/audio_a2dp_hw(141): skt_connect: connected to stack fd = 37
+12-14 02:38:57.829 D/A2dpStateMachine(5422): Connected process message: 101
+12-14 02:38:57.929 D/dalvikvm(447): GC_FOR_ALLOC freed 2053K, 24% free 13454K/17476K, paused 100ms, total 100ms
+12-14 02:38:57.949 D/A2dpStateMachine(5422): A2DP Playing state : device: 00:18:6B:72:DB:66 State:11->10
+12-14 02:38:57.939 I/am_pause_activity(447): [0,1095404920,com.cyanogenmod.trebuchet/.Launcher]
+12-14 02:38:57.949 I/am_task_to_front(447): [0,9]
+12-14 02:38:57.979 I/am_on_paused_called(827): [0,com.cyanogenmod.trebuchet.Launcher]
+12-14 02:38:57.989 I/am_resume_activity(447): [0,1089072280,9,com.andrew.apollo/.ui.activities.HomeActivity]
+12-14 02:38:58.029 I/am_on_resume_called(5600): [0,com.andrew.apollo.ui.activities.HomeActivity]
+12-14 02:38:58.249 I/force_gc(4872): Binder
+12-14 02:38:58.299 D/MediaExtractor(141): returning default extractor
+12-14 02:38:58.299 E/MetadataRetrieverClient(141): failed to extract an album art
+12-14 02:38:58.319 D/MediaExtractor(141): returning default extractor
+12-14 02:38:58.329 E/MetadataRetrieverClient(141): failed to extract an album art
+12-14 02:38:58.339 D/MediaExtractor(141): returning default extractor
+12-14 02:38:58.339 E/MetadataRetrieverClient(141): failed to extract an album art
+12-14 02:38:58.359 D/dalvikvm(4872): GC_EXPLICIT freed 1317K, 75% free 2672K/10660K, paused 26ms+8ms, total 108ms
+12-14 02:38:58.379 D/MediaExtractor(141): returning default extractor
+12-14 02:38:58.379 E/MetadataRetrieverClient(141): failed to extract an album art
+12-14 02:38:59.170 D/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::standby()
+12-14 02:38:59.170 D/AudioHardwareMSM8660(141): Deroute pcm stream
+12-14 02:38:59.170 D/AudioHardwareMSM8660(141): deleteFromTable stream 1
+12-14 02:38:59.170 D/AudioHardwareMSM8660(141): updateDeviceInfo: E
+12-14 02:38:59.170 D/AudioHardwareMSM8660(141): simple device switch
+12-14 02:38:59.170 E/AudioHardwareMSM8660(141): value of device and enable is 2 0 ALSA dev id:2
+12-14 02:38:59.220 E/AudioHardwareMSM8660(141): value of device and enable is 3 0 ALSA dev id:4
+12-14 02:38:59.230 D/AudioHardwareMSM8660(141): do_aic3254_control device: 1 mode: 0 record: 0
+12-14 02:38:59.230 D/AudioHardwareMSM8660(141): do_aic3254_control: set aic3254 rx to 29
+12-14 02:38:59.270 I/AudioHardwareMSM8660(141): aic3254 powered off
+12-14 02:38:59.380 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:00.982 I/audio_a2dp_hw(141): suspend_audio_datapath: state 1
+12-14 02:39:00.982 E/bt-btif (5422): bta_av_str_stopped:audio_open_cnt=1, p_data 24d8a0
+12-14 02:39:00.982 W/bt-btif (5422): bta_dm_rm_cback:1, status:6
+12-14 02:39:01.032 W/bt-btif (5422): bta_dm_rm_cback:1, status:6
+12-14 02:39:01.032 I/BluetoothA2dpServiceJni(5422): bta2dp_audio_state_callback
+12-14 02:39:01.032 D/A2dpStateMachine(5422): Connected process message: 101
+12-14 02:39:01.032 I/audio_a2dp_hw(141): skt_disconnect: fd 37
+12-14 02:39:01.032 D/A2dpStateMachine(5422): A2DP Playing state : device: 00:18:6B:72:DB:66 State:10->11
+12-14 02:39:01.442 I/menu_opened(5600): 1
+12-14 02:39:02.914 I/menu_item_selected(5600): [1,Play]
+12-14 02:39:02.934 I/audio_a2dp_hw(141): start_audio_datapath: state 5
+12-14 02:39:02.934 W/bt-btif (5422): bta_dm_rm_cback:1, status:7
+12-14 02:39:03.004 E/bt-btif (5422): bta_av_link_role_ok hndl:x41 role:0, conn_audio:x1, bits:1, features:x8001
+12-14 02:39:03.004 W/bt-btif (5422): bta_dm_rm_cback:1, status:0
+12-14 02:39:03.004 W/bt-btif (5422): bta_dm_rm_cback:1, status:7
+12-14 02:39:03.004 I/audio_a2dp_hw(141): skt_connect: connect to /data/misc/bluedroid/.a2dp_data (sz 10240)
+12-14 02:39:03.004 I/audio_a2dp_hw(141): skt_connect: connected to stack fd = 29
+12-14 02:39:03.004 I/BluetoothA2dpServiceJni(5422): bta2dp_audio_state_callback
+12-14 02:39:03.004 D/A2dpStateMachine(5422): Connected process message: 101
+12-14 02:39:03.014 D/A2dpStateMachine(5422): A2DP Playing state : device: 00:18:6B:72:DB:66 State:11->10
+12-14 02:39:03.014 D/MediaExtractor(141): returning default extractor
+12-14 02:39:03.024 I/HeadsetService(4751): New audio session: 66
+12-14 02:39:03.024 I/HeadsetService(4751): Selected configuration: bluetooth
+12-14 02:39:03.024 I/Effect-DRC(141): Compression factor set to: 1.000000
+12-14 02:39:03.024 I/Effect-BassBoost(141): New strength: 0
+12-14 02:39:03.024 I/Effect-Equalizer(141): Setting band 0 to 0
+12-14 02:39:03.024 I/Effect-Equalizer(141): Setting band 1 to 0
+12-14 02:39:03.024 I/Effect-Equalizer(141): Setting band 2 to 0
+12-14 02:39:03.024 I/Effect-Equalizer(141): Setting band 3 to 0
+12-14 02:39:03.034 I/Effect-Equalizer(141): Setting band 4 to 0
+12-14 02:39:03.034 I/Effect-Equalizer(141): Setting loudness correction reference to 100.000000 dB
+12-14 02:39:03.044 D/MediaExtractor(141): returning default extractor
+12-14 02:39:03.044 I/HeadsetService(4751): New audio session: 66
+12-14 02:39:03.044 I/HeadsetService(4751): Selected configuration: bluetooth
+12-14 02:39:03.044 I/Effect-DRC(141): Compression factor set to: 1.000000
+12-14 02:39:03.044 I/Effect-BassBoost(141): New strength: 0
+12-14 02:39:03.054 I/Effect-Equalizer(141): Setting band 0 to 0
+12-14 02:39:03.054 I/Effect-Equalizer(141): Setting band 1 to 0
+12-14 02:39:03.054 I/Effect-Equalizer(141): Setting band 2 to 0
+12-14 02:39:03.054 I/PblAndroid(4944): artist=Axel Zwingenberger, Ben Waters, Charlie Watts, Dave Green, album=The ABC & D of Boogie Woogie: Live in Paris, track=Evolution Blues, cachedArtist=Glenn Morgan, cachedAlbum=Catch The Wind, cachedTrack=Invention 1 (Morgan)
+12-14 02:39:03.064 I/Effect-Equalizer(141): Setting band 3 to 0
+12-14 02:39:03.064 I/Effect-Equalizer(141): Setting band 4 to 0
+12-14 02:39:03.064 I/Effect-Equalizer(141): Setting loudness correction reference to 100.000000 dB
+12-14 02:39:03.074 I/PblAndroid(4944): artist=Axel Zwingenberger, Ben Waters, Charlie Watts, Dave Green, album=The ABC & D of Boogie Woogie: Live in Paris, track=Evolution Blues, cachedArtist=Axel Zwingenberger, Ben Waters, Charlie Watts, Dave Green, cachedAlbum=The ABC & D of Boogie Woogie: Live in Paris, cachedTrack=Evolution Blues
+12-14 02:39:03.074 D/MediaExtractor(141): returning default extractor
+12-14 02:39:03.074 E/MetadataRetrieverClient(141): failed to extract an album art
+12-14 02:39:03.114 D/BATT_PYD(144): Pyramid_calculate_level: Get percent_last:12
+12-14 02:39:03.114 I/battery_level(447): [13,3443,173]
+12-14 02:39:03.114 I/BATT_ALG(144): vol=3443;curr=0;dis_curr=627;temp=173;id=3;level=13;chg_src=0;chg_en=0;ov_chg=0;temp_range=0;timer=60;safety_count=0
+12-14 02:39:03.134 I/PowerUI (548): showing low battery warning: level=13 [-1]
+12-14 02:39:03.204 I/AudioService(447):  AudioFocus  requestAudioFocus() from android.media.AudioManager@40db7d40com.andrew.apollo.MusicPlaybackService$4@40d715c0
+12-14 02:39:03.204 I/binder_sample(5600): [com.andrew.apollo.IApolloService,2,281,com.andrew.apollo,56]
+12-14 02:39:03.204 I/AudioService(447):   Remote Control   registerMediaButtonIntent() for PendingIntent{411cb608: PendingIntentRecord{410e2a20 com.andrew.apollo broadcastIntent}}
+12-14 02:39:03.274 D/MediaExtractor(141): returning default extractor
+12-14 02:39:03.274 E/MetadataRetrieverClient(141): failed to extract an album art
+12-14 02:39:03.334 D/MediaExtractor(141): returning default extractor
+12-14 02:39:03.344 D/Ringtone(548): Successfully created local player
+12-14 02:39:03.364 D/MediaExtractor(141): returning default extractor
+12-14 02:39:03.364 D/Ringtone(548): Successfully created local player
+12-14 02:39:03.454 D/MediaExtractor(141): returning default extractor
+12-14 02:39:03.454 D/MediaExtractor(141): returning default extractor
+12-14 02:39:03.454 E/MetadataRetrieverClient(141): failed to extract an album art
+12-14 02:39:03.474 E/MetadataRetrieverClient(141): failed to extract an album art
+12-14 02:39:03.484 D/MediaExtractor(141): returning default extractor
+12-14 02:39:03.484 E/MetadataRetrieverClient(141): failed to extract an album art
+12-14 02:39:03.564 D/PBL-BT  (4944): 02:39:03.571 BluetoothCompatibilityHacks.getBondedDevicesGuarded():262> entry
+12-14 02:39:03.564 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:03.564 D/BluetoothAdapterService(1089157744)( 5422): Get Bonded Devices being called
+12-14 02:39:03.564 D/PBL-BT  (4944): 02:39:03.575 BluetoothCompatibilityHacks.getBondedDevicesGuarded():276> exit; returning list of 4 items
+12-14 02:39:03.564 I/PblAndroid(4944): PebbleMessage toJson failed: 32
+12-14 02:39:03.564 D/PBL-BT  (4944): 02:39:03.578 BluetoothConnectionManager.sendMessage():333> sendMessage [{}]
+12-14 02:39:20.371 I/binder_sample(548): [android.view.IWindowSession,5,28,com.android.systemui,5]
+12-14 02:39:20.381 W/InputMethodManagerService(447): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@40fb9708 attribute=null, token = android.os.BinderProxy@40fbdc90
+12-14 02:39:48.628 D/SizeAdaptiveLayout(548): com.android.internal.widget.SizeAdaptiveLayout{4125eb00 V.E..... ......I. 0,0-0,0 #7f090074 app:id/adaptive}child view android.widget.FrameLayout{414d2820 G.E..... ......ID 0,0-0,0 #1020324 android:id/status_bar_latest_event_content} measured out of bounds at 95px clamped to 96px
+12-14 02:39:48.668 D/SizeAdaptiveLayout(548): com.android.internal.widget.SizeAdaptiveLayout{4125eb00 V.E..... ......I. 0,0-0,0 #7f090074 app:id/adaptive}child view android.widget.FrameLayout{414d2820 G.E..... ......ID 0,0-0,0 #1020324 android:id/status_bar_latest_event_content} measured out of bounds at 95px clamped to 96px
+12-14 02:39:49.519 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:49.519 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:49.539 D/BluetoothManagerService(447): checkIfCallerIsForegroundUser: valid=true callingUser=0 foregroundUser=0
+12-14 02:39:49.539 D/BluetoothManagerService(447): disable(): mBluetooth = android.bluetooth.IBluetooth$Stub$Proxy@411dbfd8 mBinding = false
+12-14 02:39:49.599 D/BluetoothManagerService(447): Message: 2
+12-14 02:39:49.599 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:49.599 D/BluetoothManagerService(447): Sending off request.
+12-14 02:39:49.599 D/BluetoothAdapterService(5422): Broadcasting updateAdapterState() to 1 receivers.
+12-14 02:39:49.599 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:49.589 I/backup_data_changed(447): com.android.providers.settings
+12-14 02:39:49.629 I/notification_cancel(447): [com.android.phone,2,NULL,0,0,64]
+12-14 02:39:49.629 I/am_destroy_service(447): [0,1097850840,5422]
+12-14 02:39:49.609 D/BluetoothManagerService(447): Message: 60
+12-14 02:39:49.609 D/BluetoothManagerService(447): MESSAGE_BLUETOOTH_STATE_CHANGE: prevState = 12, newState=13
+12-14 02:39:49.609 D/BluetoothManagerService(447): Bluetooth State Change Intent: 12 -> 13
+12-14 02:39:49.609 W/bt-btif (5422): invalid rfc slot id: 6
+12-14 02:39:49.609 W/bt-btif (5422): invalid rfc slot id: 7
+12-14 02:39:49.609 W/bt-btif (5422): invalid rfc slot id: 8
+12-14 02:39:49.679 I/notification_enqueue(447): [com.getpebble.android,4243,NULL,0,Notification(pri=0 contentView=com.getpebble.android/0x109008f vibrate=null sound=null defaults=0x0 flags=0x4a kind=[null])]
+12-14 02:39:49.609 W/bt-btif (5422): invalid rfc slot id: 9
+12-14 02:39:49.609 W/bt-avp  (5422): avct_lcb_chk_disc
+12-14 02:39:49.609 W/bt-avp  (5422): avct_lcb_last_ccb
+12-14 02:39:49.609 W/bt-avp  (5422): 0: aloc:1, lcb:0x5a43ea5c/0x5a43ea5c, ccb:0x5a43ead4/0x5a43ead4
+12-14 02:39:49.609 W/bt-avp  (5422): 1: aloc:0, lcb:0x0/0x5a43ea5c, ccb:0x5a43eaec/0x5a43ead4
+12-14 02:39:49.609 W/bt-avp  (5422): 2: aloc:0, lcb:0x0/0x5a43ea5c, ccb:0x5a43eb04/0x5a43ead4
+12-14 02:39:49.609 W/bt-avp  (5422): closing
+12-14 02:39:49.609 E/bt-btif (5422): bta_av_str_stopped:audio_open_cnt=1, p_data 0
+12-14 02:39:49.609 W/bt-btif (5422): bta_dm_rm_cback:1, status:6
+12-14 02:39:49.609 W/bt-avp  (5422): avdt_scb_snd_stream_close c:0, off:0
+12-14 02:39:49.709 I/am_destroy_service(447): [0,1092750384,5422]
+12-14 02:39:49.609 E/audio_a2dp_hw(141): skt_write: write failed with errno=32
+12-14 02:39:49.609 I/audio_a2dp_hw(141): skt_disconnect: fd 29
+12-14 02:39:49.719 I/binder_sample(4827): [android.bluetooth.IBluetooth,2,64,com.android.settings,12]
+12-14 02:39:49.609 E/BtOppRfcommListener(5422): Error accept connection java.io.IOException: read failed, socket might closed or timeout, read ret: -1
+12-14 02:39:49.609 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:49.609 E/bt-btif (5422): warning : no command pending, ignore ack
+12-14 02:39:49.609 I/audio_a2dp_hw(141): skt_connect: connect to /data/misc/bluedroid/.a2dp_data (sz 10240)
+12-14 02:39:49.609 I/audio_a2dp_hw(141): skt_connect: connected to stack fd = 29
+12-14 02:39:49.609 I/BluetoothA2dpServiceJni(5422): bta2dp_audio_state_callback
+12-14 02:39:49.609 D/A2dpStateMachine(5422): Connected process message: 101
+12-14 02:39:49.729 I/am_create_service(447): [0,1100254464,com.android.settings/.bluetooth.DockService,4827]
+12-14 02:39:49.619 I/BluetoothHeadsetServiceJni(5422): connection_state_callback
+12-14 02:39:49.739 I/am_destroy_service(447): [0,1100254464,4827]
+12-14 02:39:49.619 D/btif_config_util(5422): btif_config_save_file(L153): in file name:/data/misc/bluedroid/bt_config.new
+12-14 02:39:49.619 E/HeadsetStateMachine(5422): terminateScoUsingVirtualVoiceCall:No present call to terminate
+12-14 02:39:49.619 D/A2dpStateMachine(5422): A2DP Playing state : device: 00:18:6B:72:DB:66 State:10->11
+12-14 02:39:49.619 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:49.619 I/BtOppRfcommListener(5422): stopping Accept Thread
+12-14 02:39:49.619 I/BtOppRfcommListener(5422): BluetoothSocket listen thread finished
+12-14 02:39:49.629 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::setParameters() routing=0
+12-14 02:39:49.629 V/AudioHardwareMSM8660(141): set output routing 0
+12-14 02:39:49.639 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:49.639 D/CachedBluetoothDevice(4827):  Clearing all connection state for dev:LG HBS750
+12-14 02:39:49.649 D/CachedBluetoothDevice(4827):  Clearing all connection state for dev:9xxPlantronics
+12-14 02:39:49.649 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:49.649 D/CachedBluetoothDevice(4827):  Clearing all connection state for dev:Pebble ECCE
+12-14 02:39:49.649 D/CachedBluetoothDevice(4827):  Clearing all connection state for dev:CT200h
+12-14 02:39:49.659 D/CachedBluetoothDevice(4827): onProfileStateChanged: profile HEADSET newProfileState 0
+12-14 02:39:49.659 D/PBL-BT  (4944): 02:39:49.661 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:39:49.659 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:49.669 E/PblAndroid(4944): BtInput: Caught an exception while waiting to read from the socketjava.io.IOException: bt socket closed, read return: -1
+12-14 02:39:49.669 E/PblAndroid(4944): 	at android.bluetooth.BluetoothSocket.read(BluetoothSocket.java:416) ~[na:0.0]
+12-14 02:39:49.669 E/PblAndroid(4944): 	at android.bluetooth.BluetoothInputStream.read(BluetoothInputStream.java:96) ~[na:0.0]
+12-14 02:39:49.669 E/PblAndroid(4944): 	at java.io.InputStream.read(InputStream.java:163) ~[na:0.0]
+12-14 02:39:49.669 E/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleInputThread.run(BluetoothConnectionManager.java:1349) ~[na:0.0]
+12-14 02:39:49.669 W/PblAndroid(4944): BtInput: aaIaa: java.io.IOException: bt socket closed, read return: -1
+12-14 02:39:49.669 I/PblAndroid(4944): BtInput: PebbleInputThread ending..
+12-14 02:39:49.679 W/PblAndroid(4944): Connection lost; wasInterrupted=false
+12-14 02:39:49.679 D/PblAndroid(4944): PebbleConnection setActualConnectionState = DISCONNECTED_AND_PAIRED
+12-14 02:39:49.679 E/PblAndroid(4944): Lost Bluetooth connection 00:18:33:E0:EC:CE
+12-14 02:39:49.679 W/PblAndroid(4944): Attempting to reconnect with device: 00:18:33:E0:EC:CE
+12-14 02:39:49.679 D/PblAndroid(4944): reconnect()
+12-14 02:39:49.679 D/PblAndroid(4944): disconnect(true)
+12-14 02:39:49.679 D/PblAndroid(4944): PebbleConnection setDesiredConnectionState = DISCONNECTED_AND_PAIRED
+12-14 02:39:49.679 W/PblAndroid(4944): (Received signal to tear down all active connections! uid = 0
+12-14 02:39:49.679 W/PblAndroid(4944): (0) stopAllCommunicationThreads()
+12-14 02:39:49.679 I/PblAndroid(4944): BtOutput: signalShutdown()
+12-14 02:39:49.679 I/PblAndroid(4944): BtInput: signalShutdown()
+12-14 02:39:49.679 I/PblAndroid(4944): (3) ConnectorThread received interrupt signal
+12-14 02:39:49.679 D/PblAndroid(4944): Killed the bluetooth socket
+12-14 02:39:49.679 D/PblAndroid(4944): PebbleConnection setActualConnectionState = DISCONNECTED_AND_PAIRED
+12-14 02:39:49.679 E/PblAndroid(4944): 00:18:33:E0:EC:CEActualConnectionState=Disconnected and paired, DesiredConnectionState=Disconnected and paired
+12-14 02:39:49.679 D/PBL-BT  (4944): 02:39:49.689 BluetoothConnectionManager.signalConnectionChanged():458> DISCONNECTED_AND_PAIRED
+12-14 02:39:49.689 D/PblDeveloperConnection(4944): Sending connection status:  false
+12-14 02:39:49.689 D/PblAndroid(4944): connect('00:18:33:E0:EC:CE')
+12-14 02:39:49.689 D/PblAndroid(4944): connect('00:18:33:E0:EC:CE', -1)
+12-14 02:39:49.689 W/PblAndroid(4944): BtOutput: Interrupted while waiting for something to sendjava.lang.InterruptedException: null
+12-14 02:39:49.689 W/PblAndroid(4944): 	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:1993) ~[na:0.0]
+12-14 02:39:49.689 W/PblAndroid(4944): 	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2028) ~[na:0.0]
+12-14 02:39:49.689 W/PblAndroid(4944): 	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:413) ~[na:0.0]
+12-14 02:39:49.689 W/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleOutputThread.run(BluetoothConnectionManager.java:1215) ~[na:0.0]
+12-14 02:39:49.689 I/PblAndroid(4944): >> Dumping all Connector threads..
+12-14 02:39:49.689 W/PblAndroid(4944): BtOutput: bbObb: java.lang.InterruptedException
+12-14 02:39:49.689 I/PblAndroid(4944): BtOutput: PebbleOutputThread ending..
+12-14 02:39:49.689 W/PblAndroid(4944): Connection lost; wasInterrupted=true
+12-14 02:39:49.689 D/PblAndroid(4944): PebbleConnection setActualConnectionState = DISCONNECTED_AND_PAIRED
+12-14 02:39:49.689 I/PblAndroid(4944): >>> BtConnector_3: interrupted = false created = 2014-12-14 02:38:50 mDebugState = 'complete'
+12-14 02:39:49.689 I/PblAndroid(4944): >> end dump of Connector threads..
+12-14 02:39:49.689 D/PBL-BT  (4944): 02:39:49.695 BluetoothConnectionManager.connect():226> Attempting to connect to '00:18:33:E0:EC:CE'; uid=0 maxAttempts=100, backoffSeconds=1
+12-14 02:39:49.689 D/PblAndroid(4944): Connecting to 00:18:33:E0:EC:CE
+12-14 02:39:49.689 D/PblAndroid(4944): PebbleConnection setDesiredConnectionState = CONNECTED_AND_PAIRED
+12-14 02:39:49.689 D/PblAndroid(4944): PebbleConnection setActualConnectionState = CONNECTING
+12-14 02:39:49.689 E/PblAndroid(4944): 00:18:33:E0:EC:CEActualConnectionState=Connecting, DesiredConnectionState=Connected and paired
+12-14 02:39:49.689 D/PBL-BT  (4944): 02:39:49.698 BluetoothConnectionManager.signalConnectionChanged():458> CONNECTING
+12-14 02:39:49.689 I/PblAndroid(4944): (4) PebbleConnectorThread()
+12-14 02:39:49.689 I/PblAndroid(4944): (4) setDebugState: constructed
+12-14 02:39:49.689 I/audio_a2dp_hw(141): out_set_parameters: state 1
+12-14 02:39:49.689 I/str_params(141): key: 'routing' value: '0'
+12-14 02:39:49.689 I/PblAndroid(4944): (4) setDebugState: runAnyVersion() for version class: JELLYBEAN_4243
+12-14 02:39:49.699 I/PblAndroid(4944): (4) setDebugState: connecting to device: 00:18:33:E0:EC:CE
+12-14 02:39:49.699 I/PblAndroid(4944): (4) bondState = 12 address = 00:18:33:E0:EC:CE class = f00704 name = Pebble ECCE
+12-14 02:39:49.699 D/SizeAdaptiveLayout(548): com.android.internal.widget.SizeAdaptiveLayout{4125eb00 V.E..... ......ID 0,0-480,96 #7f090074 app:id/adaptive}child view android.widget.FrameLayout{414d2820 V.E..... ......ID 0,0-480,96 #1020324 android:id/status_bar_latest_event_content} measured out of bounds at 95px clamped to 96px
+12-14 02:39:49.699 I/PblAndroid(4944): (4) setDebugState: createRfcommSocketToServiceRecord
+12-14 02:39:49.699 I/PblAndroid(4944): (4) setDebugState: cwchf socket.connect() btSocket.isConnected() = false
+12-14 02:39:49.699 W/BluetoothAdapter(4944): getBluetoothService() called with no BluetoothManagerCallback
+12-14 02:39:49.699 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::setParameters() routing=0
+12-14 02:39:49.699 V/AudioHardwareMSM8660(141): set output routing 0
+12-14 02:39:49.699 E/BluetoothServiceJni(5422): Socket connection failed: 2
+12-14 02:39:49.699 E/BluetoothAdapterService(1089157744)( 5422): Failed to connect socket
+12-14 02:39:49.709 D/BluetoothSocket(4944): connect(), SocketState: INIT, mPfd: null
+12-14 02:39:49.709 I/PblAndroid(4944): (4) setDebugState: cwchf IOException: closing socket
+12-14 02:39:49.709 I/PblAndroid(4944): (4) setDebugState: cwchf closed
+12-14 02:39:49.709 D/PblAndroid(4944): (4) SDP Workaround?java.io.IOException: bt socket connect failed
+12-14 02:39:49.709 D/PblAndroid(4944): 	at android.bluetooth.BluetoothSocket.connect(BluetoothSocket.java:312) ~[na:0.0]
+12-14 02:39:49.709 D/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.connectWithCompatHackFallback(BluetoothConnectionManager.java:993) ~[na:0.0]
+12-14 02:39:49.709 D/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.runAnyVersion(BluetoothConnectionManager.java:819) ~[na:0.0]
+12-14 02:39:49.709 D/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.run(BluetoothConnectionManager.java:656) ~[na:0.0]
+12-14 02:39:49.709 I/PblAndroid(4944): (4) setDebugState: cwchf socket.connect() from IOE
+12-14 02:39:49.709 W/BluetoothAdapter(4944): getBluetoothService() called with no BluetoothManagerCallback
+12-14 02:39:49.709 W/bt-btif (5422): bta_dm_rm_cback:1, status:1
+12-14 02:39:49.719 E/BluetoothServiceJni(5422): Socket connection failed: 2
+12-14 02:39:49.719 E/BluetoothAdapterService(1089157744)( 5422): Failed to connect socket
+12-14 02:39:49.719 I/EventHub(447): Removing device '/dev/input/event7' due to inotify event
+12-14 02:39:49.719 I/EventHub(447): Removed device: path=/dev/input/event7 name=AVRCP id=9 fd=91 classes=0x80000001
+12-14 02:39:49.719 D/BluetoothSocket(4944): connect(), SocketState: INIT, mPfd: null
+12-14 02:39:49.719 W/PblAndroid(4944): (4) Connect call failed on bluetooth socketjava.io.IOException: bt socket connect failed
+12-14 02:39:49.719 W/PblAndroid(4944): 	at android.bluetooth.BluetoothSocket.connect(BluetoothSocket.java:312) ~[na:0.0]
+12-14 02:39:49.719 W/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.connectWithCompatHackFallback(BluetoothConnectionManager.java:1017) ~[na:0.0]
+12-14 02:39:49.719 W/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.runAnyVersion(BluetoothConnectionManager.java:819) ~[na:0.0]
+12-14 02:39:49.719 W/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.run(BluetoothConnectionManager.java:656) ~[na:0.0]
+12-14 02:39:49.719 I/PblAndroid(4944): (4) setDebugState: IOException
+12-14 02:39:49.719 D/PblAndroid(4944): (4) > diagnoseConnectionFailure: unknown: -
+12-14 02:39:49.719 D/PblAndroid(4944): (4) > 0: connect (312)
+12-14 02:39:49.719 D/PblAndroid(4944): (4) > 1: connectWithCompatHackFallback (1017)
+12-14 02:39:49.719 D/PblAndroid(4944): (4) > 2: runAnyVersion (819)
+12-14 02:39:49.719 D/PblAndroid(4944): (4) > 3: run (656)
+12-14 02:39:49.719 E/PblAndroid(4944): (4) Connection attempt failed 00:18:33:E0:EC:CE
+12-14 02:39:49.719 D/PblAndroid(4944): (4) Connect attempt failed, waiting 1000 milliseconds before retrying...
+12-14 02:39:49.719 I/PblAndroid(4944): (4) setDebugState: backoff: 1000
+12-14 02:39:49.719 D/CachedBluetoothDevice(4827):  BT Turninig Off...Profile conn state change ignored...
+12-14 02:39:49.719 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:49.719 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:49.719 I/audio_a2dp_hw(141): out_set_parameters: state 1
+12-14 02:39:49.719 I/str_params(141): key: 'routing' value: '0'
+12-14 02:39:49.729 D/BluetoothPbap(4827): Proxy object disconnected
+12-14 02:39:49.729 D/PbapServerProfile(4827): Bluetooth service disconnected
+12-14 02:39:49.729 W/ContextImpl(4827): Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1404 android.content.ContextWrapper.startService:450 android.content.ContextWrapper.startService:450 com.android.settings.bluetooth.DockEventReceiver.beginStartingService:134 com.android.settings.bluetooth.DockEventReceiver.onReceive:115 
+12-14 02:39:49.739 D/BluetoothMasReceiver(5422): Bluetooth STATE CHANGED to 13
+12-14 02:39:49.749 D/DockEventReceiver(4827): finishStartingService: stopping service
+12-14 02:39:49.769 D/AuthorizationBluetoothService(848): Received Bluetooth event: Intent { act=android.bluetooth.adapter.action.STATE_CHANGED flg=0x8000010 cmp=com.google.android.gms/.auth.be.proximity.authorization.bt.AuthorizationBluetoothService$BluetoothStateChangeReceiver (has extras) }.
+12-14 02:39:49.779 D/PBL-BT  (4944): 02:39:49.785 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:39:49.809 E/bt-btm  (5422): btm_sec_disconnected - Clearing Pending flag
+12-14 02:39:49.829 I/InputReader(447): Device removed: id=9, name='AVRCP', sources=0x00000101
+12-14 02:39:49.870 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 24
+12-14 02:39:49.880 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 25
+12-14 02:39:49.880 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 24
+12-14 02:39:49.900 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 25
+12-14 02:39:49.900 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 24
+12-14 02:39:49.920 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 25
+12-14 02:39:49.920 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 24
+12-14 02:39:49.940 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 25
+12-14 02:39:49.940 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 24
+12-14 02:39:49.960 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 25
+12-14 02:39:49.960 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 24
+12-14 02:39:49.980 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 25
+12-14 02:39:49.980 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 24
+12-14 02:39:50.000 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 25
+12-14 02:39:50.000 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 24
+12-14 02:39:50.020 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 25
+12-14 02:39:50.020 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 24
+12-14 02:39:50.040 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 25
+12-14 02:39:50.050 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 24
+12-14 02:39:50.060 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 25
+12-14 02:39:50.060 W/bt-btif (5422): btif_media_aa_prep_2_send congestion buf count 24
+12-14 02:39:50.070 I/BluetoothA2dpServiceJni(5422): bta2dp_connection_state_callback
+12-14 02:39:50.070 D/A2dpStateMachine(5422): Connected process message: 101
+12-14 02:39:50.070 E/audio_a2dp_hw(141): skt_write: write failed with errno=32
+12-14 02:39:50.070 I/audio_a2dp_hw(141): skt_disconnect: fd 29
+12-14 02:39:50.070 E/bt-btif (5422): warning : no command pending, ignore ack
+12-14 02:39:50.070 D/A2dpStateMachine(5422): Enter Disconnected: 101
+12-14 02:39:50.080 I/HeadsetService(4751): Headset=false; Bluetooth=false
+12-14 02:39:50.080 I/HeadsetService(4751): Selected configuration: speaker
+12-14 02:39:50.080 I/Effect-DRC(141): Compression factor set to: 1.000000
+12-14 02:39:50.080 I/Effect-BassBoost(141): New strength: 0
+12-14 02:39:50.080 I/BTConnectionReceiver(1348): onReceive(context, Intent { act=android.bluetooth.device.action.ACL_DISCONNECTED flg=0x8000010 cmp=com.google.android.googlequicksearchbox/com.google.android.search.core.service.BluetoothConnectionReceiver (has extras) }, [BluetoothDevice: address=00:18:6B:72:DB:66, alias=null, name=LG HBS750, majorDeviceClass=1024, deviceClass=1028]
+12-14 02:39:50.080 I/Effect-Equalizer(141): Setting band 0 to 0
+12-14 02:39:50.080 I/Effect-Equalizer(141): Setting band 1 to 0
+12-14 02:39:50.080 I/Effect-Equalizer(141): Setting band 2 to 0
+12-14 02:39:50.080 I/Effect-Equalizer(141): Setting band 3 to 0
+12-14 02:39:50.080 I/Effect-Equalizer(141): Setting band 4 to 0
+12-14 02:39:50.090 I/Effect-Equalizer(141): Setting loudness correction reference to 100.000000 dB
+12-14 02:39:50.090 I/HeadsetService(4751): Headset=false; Bluetooth=true
+12-14 02:39:50.090 I/HeadsetService(4751): Selected configuration: bluetooth
+12-14 02:39:50.090 I/Effect-DRC(141): Compression factor set to: 1.000000
+12-14 02:39:50.090 I/BluetoothClassifier(1348): Bluetooth Device Name: LG HBS750
+12-14 02:39:50.090 I/Effect-BassBoost(141): New strength: 0
+12-14 02:39:50.090 I/Effect-Equalizer(141): Setting band 0 to 0
+12-14 02:39:50.090 I/Effect-Equalizer(141): Setting band 1 to 0
+12-14 02:39:50.090 I/Effect-Equalizer(141): Setting band 2 to 0
+12-14 02:39:50.090 I/Effect-Equalizer(141): Setting band 3 to 0
+12-14 02:39:50.090 I/Effect-Equalizer(141): Setting band 4 to 0
+12-14 02:39:50.090 I/Effect-Equalizer(141): Setting loudness correction reference to 100.000000 dB
+12-14 02:39:50.100 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:50.100 E/audio_a2dp_hw(141): start_audio_datapath: audiopath start failed
+12-14 02:39:50.110 D/PBL-BT  (4944): 02:39:50.118 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:39:50.110 W/PblAndroid(4944): ACTION_ACL_DISCONNECTED  for device 00:18:6B:72:DB:66
+12-14 02:39:50.190 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:50.190 E/audio_a2dp_hw(141): start_audio_datapath: audiopath start failed
+12-14 02:39:50.270 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:50.280 E/audio_a2dp_hw(141): start_audio_datapath: audiopath start failed
+12-14 02:39:50.360 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:50.360 E/audio_a2dp_hw(141): start_audio_datapath: audiopath start failed
+12-14 02:39:50.450 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:50.450 E/audio_a2dp_hw(141): start_audio_datapath: audiopath start failed
+12-14 02:39:50.540 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:50.540 E/audio_a2dp_hw(141): start_audio_datapath: audiopath start failed
+12-14 02:39:50.630 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:50.630 E/audio_a2dp_hw(141): start_audio_datapath: audiopath start failed
+12-14 02:39:50.710 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:50.710 E/audio_a2dp_hw(141): start_audio_datapath: audiopath start failed
+12-14 02:39:50.720 I/PblAndroid(4944): (4) setDebugState: connecting to device: 00:18:33:E0:EC:CE
+12-14 02:39:50.740 I/PblAndroid(4944): (4) bondState = 12 address = 00:18:33:E0:EC:CE class = f00704 name = Pebble ECCE
+12-14 02:39:50.740 I/PblAndroid(4944): (4) setDebugState: createRfcommSocketToServiceRecord
+12-14 02:39:50.740 I/PblAndroid(4944): (4) setDebugState: cwchf socket.connect() btSocket.isConnected() = false
+12-14 02:39:50.740 W/BluetoothAdapter(4944): getBluetoothService() called with no BluetoothManagerCallback
+12-14 02:39:50.750 E/BluetoothServiceJni(5422): Socket connection failed: 2
+12-14 02:39:50.750 E/BluetoothAdapterService(1089157744)( 5422): Failed to connect socket
+12-14 02:39:50.750 D/BluetoothSocket(4944): connect(), SocketState: INIT, mPfd: null
+12-14 02:39:50.750 I/PblAndroid(4944): (4) setDebugState: cwchf IOException: closing socket
+12-14 02:39:50.750 I/PblAndroid(4944): (4) setDebugState: cwchf closed
+12-14 02:39:50.760 D/PblAndroid(4944): (4) SDP Workaround?java.io.IOException: bt socket connect failed
+12-14 02:39:50.760 D/PblAndroid(4944): 	at android.bluetooth.BluetoothSocket.connect(BluetoothSocket.java:312) ~[na:0.0]
+12-14 02:39:50.760 D/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.connectWithCompatHackFallback(BluetoothConnectionManager.java:993) ~[na:0.0]
+12-14 02:39:50.760 D/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.runAnyVersion(BluetoothConnectionManager.java:819) ~[na:0.0]
+12-14 02:39:50.760 D/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.run(BluetoothConnectionManager.java:656) ~[na:0.0]
+12-14 02:39:50.760 I/PblAndroid(4944): (4) setDebugState: cwchf socket.connect() from IOE
+12-14 02:39:50.760 W/BluetoothAdapter(4944): getBluetoothService() called with no BluetoothManagerCallback
+12-14 02:39:50.760 E/BluetoothServiceJni(5422): Socket connection failed: 2
+12-14 02:39:50.760 E/BluetoothAdapterService(1089157744)( 5422): Failed to connect socket
+12-14 02:39:50.770 D/BluetoothSocket(4944): connect(), SocketState: INIT, mPfd: null
+12-14 02:39:50.770 W/PblAndroid(4944): (4) Connect call failed on bluetooth socketjava.io.IOException: bt socket connect failed
+12-14 02:39:50.770 W/PblAndroid(4944): 	at android.bluetooth.BluetoothSocket.connect(BluetoothSocket.java:312) ~[na:0.0]
+12-14 02:39:50.770 W/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.connectWithCompatHackFallback(BluetoothConnectionManager.java:1017) ~[na:0.0]
+12-14 02:39:50.770 W/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.runAnyVersion(BluetoothConnectionManager.java:819) ~[na:0.0]
+12-14 02:39:50.770 W/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.run(BluetoothConnectionManager.java:656) ~[na:0.0]
+12-14 02:39:50.770 I/PblAndroid(4944): (4) setDebugState: IOException
+12-14 02:39:50.770 D/PblAndroid(4944): (4) > diagnoseConnectionFailure: unknown: -
+12-14 02:39:50.780 D/PblAndroid(4944): (4) > 0: connect (312)
+12-14 02:39:50.780 D/PblAndroid(4944): (4) > 1: connectWithCompatHackFallback (1017)
+12-14 02:39:50.780 D/PblAndroid(4944): (4) > 2: runAnyVersion (819)
+12-14 02:39:50.780 D/PblAndroid(4944): (4) > 3: run (656)
+12-14 02:39:50.780 E/PblAndroid(4944): (4) Connection attempt failed 00:18:33:E0:EC:CE
+12-14 02:39:50.780 D/PblAndroid(4944): (4) Connect attempt failed, waiting 2000 milliseconds before retrying...
+12-14 02:39:50.790 I/PblAndroid(4944): (4) setDebugState: backoff: 2000
+12-14 02:39:50.800 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:50.800 E/audio_a2dp_hw(141): start_audio_datapath: audiopath start failed
+12-14 02:39:50.891 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:50.891 E/audio_a2dp_hw(141): start_audio_datapath: audiopath start failed
+12-14 02:39:50.981 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:50.981 E/audio_a2dp_hw(141): start_audio_datapath: audiopath start failed
+12-14 02:39:51.051 I/audio_a2dp_hw(141): start_audio_datapath: state 3
+12-14 02:39:51.051 E/audio_a2dp_hw(141): start_audio_datapath: audiopath start failed
+12-14 02:39:51.061 I/audio_a2dp_hw(141): out_set_parameters: state 3
+12-14 02:39:51.071 D/A2dpStateMachine(5422): Connection state 00:18:6B:72:DB:66: 2->0
+12-14 02:39:51.071 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:51.081 D/BluetoothAdapterProperties(5422): CONNECTION_STATE_CHANGE: 00:18:6B:72:DB:66: 2 -> 0
+12-14 02:39:51.091 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:51.101 D/CachedBluetoothDevice(4827): onProfileStateChanged: profile A2DP newProfileState 0
+12-14 02:39:51.101 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:51.101 D/CachedBluetoothDevice(4827):  BT Turninig Off...Profile conn state change ignored...
+12-14 02:39:51.101 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:51.101 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:51.111 D/PBL-BT  (4944): 02:39:51.124 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:39:51.111 I/str_params(141): key: 'exiting' value: '1'
+12-14 02:39:51.141 I/audio_a2dp_hw(141): out_set_parameters: state 3
+12-14 02:39:51.141 I/str_params(141): key: 'closing' value: 'true'
+12-14 02:39:51.141 I/audio_a2dp_hw(141): out_set_parameters: state 2
+12-14 02:39:51.141 I/str_params(141): key: 'exiting' value: '1'
+12-14 02:39:51.141 E/audio_a2dp_hw(141): out_write: stream not in stopped or standby
+12-14 02:39:51.141 I/audio_a2dp_hw(141): adev_close_output_stream: closing output (state 2)
+12-14 02:39:51.141 I/audio_a2dp_hw(141): stop_audio_datapath: state 2
+12-14 02:39:51.141 I/audio_a2dp_hw(141): skt_disconnect: fd -1
+12-14 02:39:51.141 I/audio_a2dp_hw(141): skt_disconnect: fd 36
+12-14 02:39:51.151 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::setParameters() routing=0
+12-14 02:39:51.151 V/AudioHardwareMSM8660(141): set output routing 0
+12-14 02:39:51.341 W/bt-btif (5422): invalid rfc slot id: 10
+12-14 02:39:51.351 W/InputMethodManagerService(447): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@413d00a0 attribute=null, token = android.os.BinderProxy@40fbdc90
+12-14 02:39:52.402 V/AudioHardwareMSM8660(141): open driver
+12-14 02:39:52.412 V/AudioHardwareMSM8660(141): get config
+12-14 02:39:52.412 V/AudioHardwareMSM8660(141): set config
+12-14 02:39:52.412 V/AudioHardwareMSM8660(141): buffer_size: 4800
+12-14 02:39:52.412 V/AudioHardwareMSM8660(141): buffer_count: 2
+12-14 02:39:52.412 V/AudioHardwareMSM8660(141): channel_count: 2
+12-14 02:39:52.412 V/AudioHardwareMSM8660(141): sample_rate: 44100
+12-14 02:39:52.422 E/AudioHardwareMSM8660(141): write(): dec_id = 1 cur_rx = 2
+12-14 02:39:52.422 D/AudioHardwareMSM8660(141): do_aic3254_control device: 1 mode: 0 record: 0
+12-14 02:39:52.422 D/AudioHardwareMSM8660(141): do_aic3254_control: set aic3254 rx to 13
+12-14 02:39:52.432 E/AudioHardwareMSM8660(141): cur_rx for pcm playback = 2
+12-14 02:39:52.432 E/AudioHardwareMSM8660(141): value of device and enable is 2 1 ALSA dev id:2
+12-14 02:39:52.502 D/ACDB-LOADER(141): ACDB -> send_audio_cal, acdb_id = 15, path =  0
+12-14 02:39:52.502 D/ACDB-LOADER(141): ACDB -> send_audtable
+12-14 02:39:52.502 D/ACDB-LOADER(141): ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE
+12-14 02:39:52.502 D/ACDB-LOADER(141): ACDB -> AUDIO_SET_AUDPROC_CAL
+12-14 02:39:52.502 D/ACDB-LOADER(141): ACDB -> send_audvoltable
+12-14 02:39:52.502 D/ACDB-LOADER(141): ACDB -> ACDB_CMD_GET_AUDPROC_GAIN_DEP_VOLTBL_STEP_COPP
+12-14 02:39:52.502 D/ACDB-LOADER(141): ACDB -> AUDIO_SET_AUDPROC_VOL_CAL
+12-14 02:39:52.522 D/AudioHardwareMSM8660(141): addToTable stream 1
+12-14 02:39:52.562 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:39:52.562 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:39:52.572 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:39:52.572 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:39:52.682 I/ActivityManager(447): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10040000 pkg=com.cyanogenmod.trebuchet cmp=com.cyanogenmod.trebuchet/.Launcher} from pid 650
+12-14 02:39:52.782 I/PblAndroid(4944): (4) setDebugState: connecting to device: 00:18:33:E0:EC:CE
+12-14 02:39:52.832 I/am_pause_activity(447): [0,1089072280,com.andrew.apollo/.ui.activities.HomeActivity]
+12-14 02:39:52.842 I/am_task_to_front(447): [0,3]
+12-14 02:39:52.832 D/dalvikvm(447): GC_FOR_ALLOC freed 965K, 24% free 13339K/17476K, paused 120ms, total 120ms
+12-14 02:39:52.842 I/am_new_intent(447): [0,1088871904,3,com.cyanogenmod.trebuchet/.Launcher,android.intent.action.MAIN,NULL,NULL,272891904]
+12-14 02:39:52.862 I/PblAndroid(4944): (4) bondState = 12 address = 00:18:33:E0:EC:CE class = f00704 name = Pebble ECCE
+12-14 02:39:52.842 I/am_on_paused_called(5600): [0,com.andrew.apollo.ui.activities.HomeActivity]
+12-14 02:39:52.862 I/PblAndroid(4944): (4) setDebugState: createRfcommSocketToServiceRecord
+12-14 02:39:52.852 I/am_resume_activity(447): [0,1095404920,3,com.cyanogenmod.trebuchet/.Launcher]
+12-14 02:39:52.862 I/PblAndroid(4944): (4) setDebugState: cwchf socket.connect() btSocket.isConnected() = false
+12-14 02:39:52.902 I/am_on_resume_called(827): [0,com.cyanogenmod.trebuchet.Launcher]
+12-14 02:39:52.862 W/BluetoothAdapter(4944): getBluetoothService() called with no BluetoothManagerCallback
+12-14 02:39:52.872 E/BluetoothServiceJni(5422): Socket connection failed: 2
+12-14 02:39:52.872 E/BluetoothAdapterService(1089157744)( 5422): Failed to connect socket
+12-14 02:39:52.872 D/BluetoothSocket(4944): connect(), SocketState: INIT, mPfd: null
+12-14 02:39:52.872 I/PblAndroid(4944): (4) setDebugState: cwchf IOException: closing socket
+12-14 02:39:52.872 I/PblAndroid(4944): (4) setDebugState: cwchf closed
+12-14 02:39:52.872 D/PblAndroid(4944): (4) SDP Workaround?java.io.IOException: bt socket connect failed
+12-14 02:39:52.872 D/PblAndroid(4944): 	at android.bluetooth.BluetoothSocket.connect(BluetoothSocket.java:312) ~[na:0.0]
+12-14 02:39:52.872 D/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.connectWithCompatHackFallback(BluetoothConnectionManager.java:993) ~[na:0.0]
+12-14 02:39:52.872 D/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.runAnyVersion(BluetoothConnectionManager.java:819) ~[na:0.0]
+12-14 02:39:52.872 D/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.run(BluetoothConnectionManager.java:656) ~[na:0.0]
+12-14 02:39:52.872 I/PblAndroid(4944): (4) setDebugState: cwchf socket.connect() from IOE
+12-14 02:39:52.872 W/BluetoothAdapter(4944): getBluetoothService() called with no BluetoothManagerCallback
+12-14 02:39:52.882 E/BluetoothServiceJni(5422): Socket connection failed: 2
+12-14 02:39:52.882 E/BluetoothAdapterService(1089157744)( 5422): Failed to connect socket
+12-14 02:39:52.892 D/BluetoothSocket(4944): connect(), SocketState: INIT, mPfd: null
+12-14 02:39:52.892 W/PblAndroid(4944): (4) Connect call failed on bluetooth socketjava.io.IOException: bt socket connect failed
+12-14 02:39:52.892 W/PblAndroid(4944): 	at android.bluetooth.BluetoothSocket.connect(BluetoothSocket.java:312) ~[na:0.0]
+12-14 02:39:52.892 W/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.connectWithCompatHackFallback(BluetoothConnectionManager.java:1017) ~[na:0.0]
+12-14 02:39:52.892 W/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.runAnyVersion(BluetoothConnectionManager.java:819) ~[na:0.0]
+12-14 02:39:52.892 W/PblAndroid(4944): 	at com.getpebble.android.comm.BluetoothConnectionManager$PebbleConnectorThread.run(BluetoothConnectionManager.java:656) ~[na:0.0]
+12-14 02:39:52.892 I/PblAndroid(4944): (4) setDebugState: IOException
+12-14 02:39:52.892 D/PblAndroid(4944): (4) > diagnoseConnectionFailure: unknown: -
+12-14 02:39:52.892 D/PblAndroid(4944): (4) > 0: connect (312)
+12-14 02:39:52.892 D/PblAndroid(4944): (4) > 1: connectWithCompatHackFallback (1017)
+12-14 02:39:52.892 D/PblAndroid(4944): (4) > 2: runAnyVersion (819)
+12-14 02:39:52.902 D/PblAndroid(4944): (4) > 3: run (656)
+12-14 02:39:52.902 E/PblAndroid(4944): (4) Connection attempt failed 00:18:33:E0:EC:CE
+12-14 02:39:52.902 D/PblAndroid(4944): (4) Connect attempt failed, waiting 4000 milliseconds before retrying...
+12-14 02:39:52.902 I/PblAndroid(4944): (4) setDebugState: backoff: 4000
+12-14 02:39:53.733 E/bt-btm  (5422): btm_sec_disconnected - Clearing Pending flag
+12-14 02:39:53.783 I/HeadsetService(4751): Headset=false; Bluetooth=true
+12-14 02:39:53.793 I/BTConnectionReceiver(1348): onReceive(context, Intent { act=android.bluetooth.device.action.ACL_DISCONNECTED flg=0x8000010 cmp=com.google.android.googlequicksearchbox/com.google.android.search.core.service.BluetoothConnectionReceiver (has extras) }, [BluetoothDevice: address=00:18:33:E0:EC:CE, alias=null, name=Pebble ECCE, majorDeviceClass=1792, deviceClass=1796]
+12-14 02:39:53.793 I/BluetoothClassifier(1348): Bluetooth Device Name: Pebble ECCE
+12-14 02:39:53.803 D/PBL-BT  (4944): 02:39:53.813 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:39:53.803 W/PblAndroid(4944): ACTION_ACL_DISCONNECTED  for device 00:18:33:E0:EC:CE
+12-14 02:39:53.853 I/ActivityManager(447): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 pkg=com.nolanlawson.logcat cmp=com.nolanlawson.logcat/.LogcatActivity bnds=[120,47][240,197]} from pid 827
+12-14 02:39:53.974 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:39:53.984 I/am_pause_activity(447): [0,1095404920,com.cyanogenmod.trebuchet/.Launcher]
+12-14 02:39:53.984 I/am_task_to_front(447): [0,11]
+12-14 02:39:53.984 I/am_new_intent(447): [0,1088937176,11,com.nolanlawson.logcat/.LogcatActivity,android.intent.action.MAIN,NULL,NULL,274726912]
+12-14 02:39:53.984 D/dalvikvm(447): GC_FOR_ALLOC freed 339K, 24% free 13293K/17476K, paused 105ms, total 105ms
+12-14 02:39:53.984 I/binder_sample(827): [android.app.IActivityManager,3,130,com.cyanogenmod.trebuchet,26]
+12-14 02:39:53.984 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:39:53.984 I/am_on_paused_called(827): [0,com.cyanogenmod.trebuchet.Launcher]
+12-14 02:39:53.994 I/am_resume_activity(447): [0,1089231440,11,com.nolanlawson.logcat/.LogcatActivity]
+12-14 02:39:54.004 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:39:54.004 I/am_on_resume_called(6105): [0,com.nolanlawson.logcat.LogcatActivity]
+12-14 02:39:54.014 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:39:54.014 V/PhoneStatusBar(548): setLightsOn(true)
+12-14 02:39:54.034 V/AudioHardwareMSM8660(141): AudioStreamOutMSM8x60::getParameters() voip_flag=
+12-14 02:39:54.734 I/bt_hci_bdroid(5422): bt_hc_worker_thread exiting
+12-14 02:39:54.734 W/bt-btif (5422): ag scb idx 1 not allocated
+12-14 02:39:54.734 E/bt-btif (5422): BTA AG is already disabled, ignoring ...
+12-14 02:39:54.734 W/bt-l2cap(5422): L2CAP - PSM: 0x0019 not found for deregistration
+12-14 02:39:54.734 W/bt-l2cap(5422): L2CAP - PSM: 0x0017 not found for deregistration
+12-14 02:39:54.734 W/bt-l2cap(5422): L2CAP - PSM: 0x0019 not found for deregistration
+12-14 02:39:54.734 W/bt-l2cap(5422): L2CAP - PSM: 0x0017 not found for deregistration
+12-14 02:39:54.734 W/bt-l2cap(5422): L2CAP - PSM: 0x0019 not found for deregistration
+12-14 02:39:54.734 W/bt-l2cap(5422): L2CAP - PSM: 0x0017 not found for deregistration
+12-14 02:39:54.734 W/bt_userial(5422): select_read return size <=0:-1, exiting userial_read_thread
+12-14 02:39:54.734 I/bt_userial_vendor(5422): device fd = 75 close
+12-14 02:39:54.734 D/BTSNOOP-DISP(5422): btsnoop_close
+12-14 02:39:54.774 I/am_destroy_service(447): [0,1098455224,5422]
+12-14 02:39:54.784 I/am_destroy_service(447): [0,1095843352,5422]
+12-14 02:39:54.744 I/GKI_LINUX(5422): gki_task_entry: gki_task task_id=0 [BTU] terminating
+12-14 02:39:54.744 I/GKI_LINUX(5422): GKI_exit_task: GKI_exit_task 0 done
+12-14 02:39:54.784 I/am_destroy_service(447): [0,1095776104,5422]
+12-14 02:39:54.744 I/GKI_LINUX(5422): GKI_destroy_task: GKI_shutdown(): task [BTU] terminated
+12-14 02:39:54.794 I/am_destroy_service(447): [0,1096413056,5422]
+12-14 02:39:54.764 D/HeadsetService(5422): Received stop request...Stopping profile...
+12-14 02:39:54.794 I/am_destroy_service(447): [0,1091760992,5422]
+12-14 02:39:54.764 D/BluetoothHeadset(447): Proxy object disconnected
+12-14 02:39:54.764 D/BluetoothHeadset(627): Proxy object disconnected
+12-14 02:39:54.774 D/BluetoothHeadset(627): Proxy object disconnected
+12-14 02:39:54.774 D/BluetoothAdapterService(5422): Profile still running: com.android.bluetooth.hdp.HealthService
+12-14 02:39:54.784 D/A2dpService(5422): Received stop request...Stopping profile...
+12-14 02:39:54.784 D/A2dpStateMachine(5422): Exit Disconnected: -1
+12-14 02:39:54.784 D/BluetoothA2dp(447): Proxy object disconnected
+12-14 02:39:54.784 W/BluetoothHeadsetServiceJni(5422): Cleaning up Bluetooth Handsfree Interface...
+12-14 02:39:54.784 E/bt-btif (5422): btif_disable_service: Current Services:0x140000
+12-14 02:39:54.814 I/am_destroy_service(447): [0,1090652136,5422]
+12-14 02:39:54.784 W/BluetoothHeadsetServiceJni(5422): Cleaning up Bluetooth Handsfree callback object
+12-14 02:39:54.784 D/BluetoothAdapterState(5422): Stopping profile services that were post enabled
+12-14 02:39:54.784 D/HidService(5422): Received stop request...Stopping profile...
+12-14 02:39:54.794 D/HealthService(5422): Received stop request...Stopping profile...
+12-14 02:39:54.794 D/BluetoothAdapterService(5422): Profile still running: com.android.bluetooth.hdp.HealthService
+12-14 02:39:54.794 D/BluetoothHeadset(4827): Proxy object disconnected
+12-14 02:39:54.794 D/HeadsetProfile(4827): Bluetooth service disconnected
+12-14 02:39:54.794 D/BluetoothA2dp(4827): Proxy object disconnected
+12-14 02:39:54.794 D/A2dpProfile(4827): Bluetooth service disconnected
+12-14 02:39:54.794 E/bt-btif (5422): warning : no command pending, ignore ack
+12-14 02:39:54.794 D/BluetoothInputDevice(4827): Proxy object disconnected
+12-14 02:39:54.794 D/HidProfile(4827): Bluetooth service disconnected
+12-14 02:39:54.794 I/GKI_LINUX(5422): gki_task_entry: gki_task task_id=2 [A2DP-MEDIA] terminating
+12-14 02:39:54.794 I/GKI_LINUX(5422): GKI_exit_task: GKI_exit_task 2 done
+12-14 02:39:54.794 I/GKI_LINUX(5422): GKI_destroy_task: GKI_shutdown(): task [A2DP-MEDIA] terminated
+12-14 02:39:54.794 E/bt-btif (5422): btif_disable_service: Current Services:0x100000
+12-14 02:39:54.794 D/PanService(5422): Received stop request...Stopping profile...
+12-14 02:39:54.794 D/BluetoothPan(447): BluetoothPAN Proxy object disconnected
+12-14 02:39:54.794 D/BluetoothPan(4827): BluetoothPAN Proxy object disconnected
+12-14 02:39:54.794 D/PanProfile(4827): Bluetooth service disconnected
+12-14 02:39:54.794 D/BluetoothAdapterService(5422): Profile still running: com.android.bluetooth.hdp.HealthService
+12-14 02:39:54.794 W/BluetoothHidServiceJni(5422): Cleaning up Bluetooth HID Interface...
+12-14 02:39:54.794 W/bt-btif (5422): cleanup: HH disabling or disabled already, status = 0
+12-14 02:39:54.794 W/BluetoothHidServiceJni(5422): Cleaning up Bluetooth GID callback object
+12-14 02:39:54.794 D/BluetoothAdapterService(5422): Profile still running: com.android.bluetooth.pan.PanService
+12-14 02:39:54.794 W/BluetoothHealthServiceJni(5422): Cleaning up Bluetooth Health Interface...
+12-14 02:39:54.794 E/bt-btif (5422): btif_disable_service: Current Services:0x100000
+12-14 02:39:54.794 W/BluetoothHealthServiceJni(5422): Cleaning up Bluetooth Health object
+12-14 02:39:54.794 W/BluetoothPanServiceJni(5422): Cleaning up Bluetooth PAN Interface...
+12-14 02:39:54.844 I/am_create_service(447): [0,1095715344,com.android.settings/.bluetooth.DockService,4827]
+12-14 02:39:54.794 W/BluetoothPanServiceJni(5422): Cleaning up Bluetooth PAN callback object
+12-14 02:39:54.854 I/am_destroy_service(447): [0,1095715344,4827]
+12-14 02:39:54.804 D/BluetoothAdapterService(5422): Broadcasting updateAdapterState() to 1 receivers.
+12-14 02:39:54.864 I/am_destroy_service(447): [0,1095832264,5422]
+12-14 02:39:54.804 D/BluetoothManagerService(447): Message: 60
+12-14 02:39:54.804 D/BluetoothManagerService(447): MESSAGE_BLUETOOTH_STATE_CHANGE: prevState = 13, newState=10
+12-14 02:39:54.804 D/BluetoothManagerService(447): Broadcasting onBluetoothStateChange(false) to 10 receivers.
+12-14 02:39:54.804 D/BluetoothA2dp(4827): onBluetoothStateChange: up=false
+12-14 02:39:54.804 D/BluetoothHeadset(447): onBluetoothStateChange: up=false
+12-14 02:39:54.804 D/BluetoothHeadset(627): onBluetoothStateChange: up=false
+12-14 02:39:54.804 D/BluetoothHeadset(4827): onBluetoothStateChange: up=false
+12-14 02:39:54.804 D/BluetoothPbap(4827): onBluetoothStateChange: up=false
+12-14 02:39:54.804 D/BluetoothInputDevice(4827): onBluetoothStateChange: up=false
+12-14 02:39:54.804 D/BluetoothHeadset(627): onBluetoothStateChange: up=false
+12-14 02:39:54.804 D/BluetoothA2dp(447): onBluetoothStateChange: up=false
+12-14 02:39:54.814 D/BluetoothAdapterService(1089157744)( 5422): getState(): mAdapterProperties: com.android.bluetooth.btservice.AdapterProperties@40eb3e20
+12-14 02:39:54.814 D/BluetoothManagerService(447): Calling onBluetoothServiceDown callbacks
+12-14 02:39:54.814 D/BluetoothManagerService(447): Broadcasting onBluetoothServiceDown() to 11 receivers.
+12-14 02:39:54.884 I/am_destroy_service(447): [0,1089530776,4944]
+12-14 02:39:54.814 D/BluetoothManagerService(447): unbindAndFinish(): android.bluetooth.IBluetooth$Stub$Proxy@411dbfd8 mBinding = false
+12-14 02:39:54.884 I/notification_cancel(447): [com.getpebble.android,4243,NULL,0,0,0]
+12-14 02:39:54.814 D/BluetoothManagerService(447): Sending unbind request.
+12-14 02:39:54.814 D/BluetoothManagerService(447): Bluetooth State Change Intent: 13 -> 10
+12-14 02:39:54.814 D/BluetoothAdapterService(5422): Cleaning up adapter native....
+12-14 02:39:54.824 D/BluetoothAdapter(548): 1088980320: getState() :  mService = null. Returning STATE_OFF
+12-14 02:39:54.824 D/BluetoothAdapter(548): 1088980320: getState() :  mService = null. Returning STATE_OFF
+12-14 02:39:54.834 I/GKI_LINUX(5422): gki_task_entry: gki_task task_id=1 [BTIF] terminating
+12-14 02:39:54.834 I/GKI_LINUX(5422): GKI_exit_task: GKI_exit_task 1 done
+12-14 02:39:54.834 I/GKI_LINUX(5422): GKI_destroy_task: GKI_shutdown(): task [BTIF] terminated
+12-14 02:39:54.834 I/BluetoothServiceJni(5422): cleanupNative: return from cleanup
+12-14 02:39:54.834 D/BluetoothAdapterService(5422): Done cleaning up adapter native....
+12-14 02:39:54.834 D/BluetoothAdapterService(1089157744)( 5422): ****onDestroy()********
+12-14 02:39:54.844 W/ContextImpl(4827): Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1404 android.content.ContextWrapper.startService:450 android.content.ContextWrapper.startService:450 com.android.settings.bluetooth.DockEventReceiver.beginStartingService:134 com.android.settings.bluetooth.DockEventReceiver.onReceive:115 
+12-14 02:39:54.854 D/DockEventReceiver(4827): finishStartingService: stopping service
+12-14 02:39:54.854 D/BluetoothMasReceiver(5422): Bluetooth STATE CHANGED to 10
+12-14 02:39:54.874 D/BluetoothAdapter(4827): 1087836504: getState() :  mService = null. Returning STATE_OFF
+12-14 02:39:54.874 D/AuthorizationBluetoothService(848): Received Bluetooth event: Intent { act=android.bluetooth.adapter.action.STATE_CHANGED flg=0x8000010 cmp=com.google.android.gms/.auth.be.proximity.authorization.bt.AuthorizationBluetoothService$BluetoothStateChangeReceiver (has extras) }.
+12-14 02:39:54.884 D/PBL-BT  (4944): 02:39:54.897 BTDiscoveryControl.connectBluetoothSystemReceiver():259> connecting to new btsystemreceiver
+12-14 02:39:54.884 I/PblAndroid(4944): Bluetooth turned off; killing PebbleService
+12-14 02:39:54.894 D/PblAndroid(4944): disconnect()
+12-14 02:39:54.894 D/PblAndroid(4944): disconnect(true)
+12-14 02:39:54.894 D/PblAndroid(4944): PebbleConnection setDesiredConnectionState = DISCONNECTED_AND_PAIRED
+12-14 02:39:54.894 W/PblAndroid(4944): (Received signal to tear down all active connections! uid = 0
+12-14 02:39:54.894 W/PblAndroid(4944): (0) stopAllCommunicationThreads()
+12-14 02:39:54.894 D/PblAndroid(4944): (4) Interrupted while in connect exponential backoff; bailing out early
+12-14 02:39:54.894 I/PblAndroid(4944): (4) Cancel: attempting to close socket
+12-14 02:39:54.894 I/PblAndroid(4944): (4) setDebugState: abortConnectionThread closing socket
+12-14 02:39:54.894 D/PblAndroid(4944): PebbleConnection setDesiredConnectionState = DISCONNECTED_AND_PAIRED
+12-14 02:39:54.894 D/PblAndroid(4944): PebbleConnection setActualConnectionState = DISCONNECTED_AND_PAIRED
+12-14 02:39:54.894 W/PblAndroid(4944): handleConnectionFailed() Failed to connect to device
+12-14 02:39:54.894 D/PblAndroid(4944): disconnect(false)
+12-14 02:39:54.894 D/PblAndroid(4944): PebbleConnection setDesiredConnectionState = DISCONNECTED_AND_PAIRED
+12-14 02:39:54.894 W/PblAndroid(4944): (Received signal to tear down all active connections! uid = 0
+12-14 02:39:54.894 W/PblAndroid(4944): (0) stopAllCommunicationThreads()
+12-14 02:39:54.894 I/PblAndroid(4944): (4) ConnectorThread received interrupt signal
+12-14 02:39:54.894 D/PblAndroid(4944): PebbleConnection setActualConnectionState = DISCONNECTED_AND_PAIRED
+12-14 02:39:54.904 E/PblAndroid(4944): 00:18:33:E0:EC:CEActualConnectionState=Disconnected and paired, DesiredConnectionState=Disconnected and paired
+12-14 02:39:54.904 D/PBL-BT  (4944): 02:39:54.913 BluetoothConnectionManager.signalConnectionChanged():458> DISCONNECTED_AND_PAIRED
+12-14 02:39:54.904 I/PblAndroid(4944): (4) ConnectorThread received interrupt signal
+12-14 02:39:54.904 D/PblAndroid(4944): PebbleConnection setActualConnectionState = DISCONNECTED_AND_PAIRED
+12-14 02:39:54.904 E/PblAndroid(4944): 00:18:33:E0:EC:CEActualConnectionState=Disconnected and paired, DesiredConnectionState=Disconnected and paired
+12-14 02:39:54.914 I/PblAndroid(4944): (4) setDebugState: abortConnectionThread complete
+12-14 02:39:54.914 I/PblAndroid(4944): (4) setDebugState: complete
+12-14 02:39:54.914 D/PBL-BT  (4944): 02:39:54.925 BluetoothConnectionManager.signalConnectionChanged():458> DISCONNECTED_AND_PAIRED
+12-14 02:39:54.924 I/PblDeveloperConnection(4944): DeveloperConnectionServer stopped: 0.0.0.0
+12-14 02:39:54.974 D/dalvikvm(6105): GC_CONCURRENT freed 3011K, 56% free 4731K/10660K, paused 23ms+9ms, total 90ms
